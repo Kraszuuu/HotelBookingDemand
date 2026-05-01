@@ -1,0 +1,4816 @@
+﻿column,value,count
+hotel,0,6532
+hotel,1,3234
+is_canceled,0,6193
+is_canceled,1,3573
+lead_time,0,505
+lead_time,1,280
+lead_time,2,165
+lead_time,4,144
+lead_time,3,137
+lead_time,5,131
+lead_time,7,114
+lead_time,6,114
+lead_time,9,97
+lead_time,12,92
+lead_time,11,87
+lead_time,16,85
+lead_time,8,84
+lead_time,34,72
+lead_time,22,70
+lead_time,20,70
+lead_time,17,69
+lead_time,14,69
+lead_time,13,69
+lead_time,21,68
+lead_time,15,68
+lead_time,19,67
+lead_time,23,64
+lead_time,28,63
+lead_time,36,63
+lead_time,56,62
+lead_time,35,62
+lead_time,18,60
+lead_time,10,59
+lead_time,69,59
+lead_time,44,58
+lead_time,39,58
+lead_time,40,58
+lead_time,27,58
+lead_time,32,56
+lead_time,38,55
+lead_time,74,55
+lead_time,30,54
+lead_time,47,53
+lead_time,55,53
+lead_time,26,53
+lead_time,33,53
+lead_time,24,51
+lead_time,112,49
+lead_time,31,49
+lead_time,25,48
+lead_time,41,48
+lead_time,53,48
+lead_time,37,47
+lead_time,102,47
+lead_time,48,46
+lead_time,29,45
+lead_time,80,44
+lead_time,45,44
+lead_time,72,43
+lead_time,86,43
+lead_time,49,43
+lead_time,54,42
+lead_time,46,40
+lead_time,98,40
+lead_time,87,40
+lead_time,66,40
+lead_time,43,40
+lead_time,61,39
+lead_time,50,38
+lead_time,78,38
+lead_time,71,37
+lead_time,73,37
+lead_time,57,37
+lead_time,140,37
+lead_time,82,37
+lead_time,68,36
+lead_time,95,36
+lead_time,101,36
+lead_time,96,36
+lead_time,134,36
+lead_time,116,35
+lead_time,183,35
+lead_time,115,35
+lead_time,42,35
+lead_time,92,35
+lead_time,58,35
+lead_time,122,34
+lead_time,75,34
+lead_time,113,33
+lead_time,168,33
+lead_time,146,33
+lead_time,150,33
+lead_time,60,33
+lead_time,103,32
+lead_time,52,32
+lead_time,151,32
+lead_time,97,32
+lead_time,105,32
+lead_time,93,32
+lead_time,59,32
+lead_time,181,31
+lead_time,77,31
+lead_time,104,31
+lead_time,100,31
+lead_time,188,30
+lead_time,51,30
+lead_time,91,30
+lead_time,67,30
+lead_time,65,29
+lead_time,178,29
+lead_time,79,29
+lead_time,88,29
+lead_time,174,29
+lead_time,62,29
+lead_time,277,29
+lead_time,124,29
+lead_time,99,28
+lead_time,84,28
+lead_time,131,28
+lead_time,81,28
+lead_time,94,27
+lead_time,90,27
+lead_time,215,27
+lead_time,133,26
+lead_time,76,26
+lead_time,166,26
+lead_time,64,26
+lead_time,119,26
+lead_time,265,25
+lead_time,143,25
+lead_time,169,25
+lead_time,85,24
+lead_time,110,24
+lead_time,162,24
+lead_time,152,24
+lead_time,83,24
+lead_time,259,23
+lead_time,63,23
+lead_time,180,23
+lead_time,164,23
+lead_time,107,23
+lead_time,172,23
+lead_time,120,23
+lead_time,136,22
+lead_time,159,22
+lead_time,156,22
+lead_time,106,22
+lead_time,175,22
+lead_time,118,22
+lead_time,147,22
+lead_time,132,22
+lead_time,128,22
+lead_time,219,21
+lead_time,123,21
+lead_time,135,21
+lead_time,222,21
+lead_time,137,21
+lead_time,117,21
+lead_time,109,21
+lead_time,121,21
+lead_time,213,21
+lead_time,186,21
+lead_time,316,21
+lead_time,70,21
+lead_time,145,21
+lead_time,185,21
+lead_time,161,21
+lead_time,111,20
+lead_time,126,20
+lead_time,192,20
+lead_time,207,20
+lead_time,245,19
+lead_time,171,19
+lead_time,165,19
+lead_time,208,19
+lead_time,130,19
+lead_time,157,19
+lead_time,125,18
+lead_time,153,18
+lead_time,273,18
+lead_time,142,18
+lead_time,158,18
+lead_time,189,18
+lead_time,141,18
+lead_time,139,18
+lead_time,108,18
+lead_time,226,18
+lead_time,89,18
+lead_time,364,17
+lead_time,148,17
+lead_time,195,17
+lead_time,167,17
+lead_time,336,17
+lead_time,200,16
+lead_time,138,16
+lead_time,203,16
+lead_time,184,16
+lead_time,275,16
+lead_time,129,16
+lead_time,211,16
+lead_time,301,16
+lead_time,292,16
+lead_time,199,16
+lead_time,154,15
+lead_time,239,15
+lead_time,263,15
+lead_time,177,15
+lead_time,197,15
+lead_time,160,15
+lead_time,229,15
+lead_time,179,15
+lead_time,173,15
+lead_time,212,14
+lead_time,241,14
+lead_time,127,14
+lead_time,253,14
+lead_time,286,14
+lead_time,205,14
+lead_time,236,14
+lead_time,254,14
+lead_time,114,14
+lead_time,163,14
+lead_time,201,14
+lead_time,323,14
+lead_time,240,14
+lead_time,351,13
+lead_time,170,13
+lead_time,218,13
+lead_time,193,13
+lead_time,327,13
+lead_time,202,13
+lead_time,210,13
+lead_time,258,13
+lead_time,198,13
+lead_time,233,12
+lead_time,386,12
+lead_time,237,12
+lead_time,214,12
+lead_time,224,12
+lead_time,315,12
+lead_time,264,12
+lead_time,247,12
+lead_time,190,12
+lead_time,149,12
+lead_time,221,11
+lead_time,144,11
+lead_time,257,11
+lead_time,309,11
+lead_time,337,11
+lead_time,405,11
+lead_time,220,11
+lead_time,283,11
+lead_time,270,11
+lead_time,342,11
+lead_time,225,11
+lead_time,187,11
+lead_time,423,11
+lead_time,314,10
+lead_time,238,10
+lead_time,335,10
+lead_time,176,10
+lead_time,194,10
+lead_time,420,10
+lead_time,289,10
+lead_time,182,10
+lead_time,196,10
+lead_time,302,10
+lead_time,305,10
+lead_time,230,10
+lead_time,206,9
+lead_time,296,9
+lead_time,287,9
+lead_time,333,9
+lead_time,244,9
+lead_time,223,9
+lead_time,191,9
+lead_time,279,9
+lead_time,288,9
+lead_time,155,9
+lead_time,251,9
+lead_time,276,9
+lead_time,372,8
+lead_time,269,8
+lead_time,256,8
+lead_time,346,8
+lead_time,266,8
+lead_time,278,8
+lead_time,204,8
+lead_time,243,8
+lead_time,274,8
+lead_time,414,8
+lead_time,312,8
+lead_time,317,7
+lead_time,246,7
+lead_time,320,7
+lead_time,262,7
+lead_time,311,7
+lead_time,217,7
+lead_time,313,7
+lead_time,227,7
+lead_time,228,7
+lead_time,271,7
+lead_time,282,7
+lead_time,308,7
+lead_time,304,7
+lead_time,281,7
+lead_time,293,7
+lead_time,457,7
+lead_time,300,7
+lead_time,232,6
+lead_time,295,6
+lead_time,260,6
+lead_time,272,6
+lead_time,291,6
+lead_time,358,6
+lead_time,310,6
+lead_time,476,6
+lead_time,322,6
+lead_time,252,6
+lead_time,391,6
+lead_time,267,6
+lead_time,325,6
+lead_time,234,6
+lead_time,242,6
+lead_time,321,6
+lead_time,377,6
+lead_time,350,6
+lead_time,339,6
+lead_time,216,6
+lead_time,235,6
+lead_time,307,6
+lead_time,359,5
+lead_time,368,5
+lead_time,393,5
+lead_time,284,5
+lead_time,396,5
+lead_time,294,5
+lead_time,383,5
+lead_time,418,5
+lead_time,395,5
+lead_time,268,5
+lead_time,451,5
+lead_time,326,5
+lead_time,468,5
+lead_time,355,5
+lead_time,250,5
+lead_time,461,4
+lead_time,444,4
+lead_time,388,4
+lead_time,249,4
+lead_time,443,4
+lead_time,261,4
+lead_time,330,4
+lead_time,298,4
+lead_time,297,4
+lead_time,352,4
+lead_time,255,4
+lead_time,318,4
+lead_time,379,4
+lead_time,433,4
+lead_time,290,4
+lead_time,378,4
+lead_time,559,4
+lead_time,475,4
+lead_time,231,4
+lead_time,209,4
+lead_time,594,3
+lead_time,385,3
+lead_time,344,3
+lead_time,482,3
+lead_time,626,3
+lead_time,542,3
+lead_time,367,3
+lead_time,248,3
+lead_time,280,3
+lead_time,343,3
+lead_time,299,3
+lead_time,349,3
+lead_time,412,3
+lead_time,524,3
+lead_time,363,3
+lead_time,348,3
+lead_time,479,3
+lead_time,353,3
+lead_time,345,3
+lead_time,365,3
+lead_time,507,2
+lead_time,384,2
+lead_time,496,2
+lead_time,340,2
+lead_time,331,2
+lead_time,398,2
+lead_time,306,2
+lead_time,332,2
+lead_time,373,2
+lead_time,462,2
+lead_time,334,2
+lead_time,357,2
+lead_time,397,2
+lead_time,437,2
+lead_time,580,2
+lead_time,454,2
+lead_time,464,2
+lead_time,356,2
+lead_time,285,2
+lead_time,573,2
+lead_time,328,2
+lead_time,467,2
+lead_time,450,2
+lead_time,447,2
+lead_time,426,2
+lead_time,319,2
+lead_time,329,2
+lead_time,434,2
+lead_time,503,2
+lead_time,419,2
+lead_time,347,2
+lead_time,601,1
+lead_time,341,1
+lead_time,737,1
+lead_time,381,1
+lead_time,338,1
+lead_time,545,1
+lead_time,394,1
+lead_time,422,1
+lead_time,458,1
+lead_time,478,1
+lead_time,605,1
+lead_time,408,1
+lead_time,303,1
+lead_time,566,1
+lead_time,489,1
+lead_time,517,1
+lead_time,531,1
+lead_time,429,1
+lead_time,448,1
+lead_time,615,1
+lead_time,465,1
+lead_time,518,1
+lead_time,440,1
+arrival_date_week_number,33,294
+arrival_date_week_number,34,262
+arrival_date_week_number,32,253
+arrival_date_week_number,30,253
+arrival_date_week_number,21,251
+arrival_date_week_number,28,248
+arrival_date_week_number,42,239
+arrival_date_week_number,15,237
+arrival_date_week_number,29,233
+arrival_date_week_number,38,231
+arrival_date_week_number,17,231
+arrival_date_week_number,39,227
+arrival_date_week_number,18,225
+arrival_date_week_number,20,223
+arrival_date_week_number,27,222
+arrival_date_week_number,19,211
+arrival_date_week_number,24,205
+arrival_date_week_number,14,205
+arrival_date_week_number,22,204
+arrival_date_week_number,40,200
+arrival_date_week_number,13,199
+arrival_date_week_number,25,197
+arrival_date_week_number,16,197
+arrival_date_week_number,31,196
+arrival_date_week_number,41,195
+arrival_date_week_number,26,193
+arrival_date_week_number,8,193
+arrival_date_week_number,43,190
+arrival_date_week_number,37,190
+arrival_date_week_number,23,189
+arrival_date_week_number,10,188
+arrival_date_week_number,35,187
+arrival_date_week_number,11,176
+arrival_date_week_number,9,171
+arrival_date_week_number,44,165
+arrival_date_week_number,7,164
+arrival_date_week_number,53,160
+arrival_date_week_number,12,160
+arrival_date_week_number,45,159
+arrival_date_week_number,46,152
+arrival_date_week_number,49,145
+arrival_date_week_number,48,134
+arrival_date_week_number,36,132
+arrival_date_week_number,47,131
+arrival_date_week_number,50,124
+arrival_date_week_number,6,123
+arrival_date_week_number,3,118
+arrival_date_week_number,4,111
+arrival_date_week_number,5,109
+arrival_date_week_number,52,98
+arrival_date_week_number,2,97
+arrival_date_week_number,1,86
+arrival_date_week_number,51,83
+stays_in_weekend_nights,0,4300
+stays_in_weekend_nights,2,2715
+stays_in_weekend_nights,1,2487
+stays_in_weekend_nights,4,128
+stays_in_weekend_nights,3,115
+stays_in_weekend_nights,6,9
+stays_in_weekend_nights,8,3
+stays_in_weekend_nights,7,3
+stays_in_weekend_nights,5,3
+stays_in_weekend_nights,9,2
+stays_in_weekend_nights,12,1
+stays_in_week_nights,2,2720
+stays_in_week_nights,1,2574
+stays_in_week_nights,3,1766
+stays_in_week_nights,5,920
+stays_in_week_nights,4,775
+stays_in_week_nights,0,645
+stays_in_week_nights,6,95
+stays_in_week_nights,7,89
+stays_in_week_nights,10,77
+stays_in_week_nights,8,53
+stays_in_week_nights,9,21
+stays_in_week_nights,11,6
+stays_in_week_nights,19,6
+stays_in_week_nights,15,4
+stays_in_week_nights,13,4
+stays_in_week_nights,14,3
+stays_in_week_nights,12,2
+stays_in_week_nights,17,1
+stays_in_week_nights,30,1
+stays_in_week_nights,16,1
+stays_in_week_nights,25,1
+stays_in_week_nights,20,1
+stays_in_week_nights,22,1
+adults,2,7428
+adults,1,1860
+adults,3,474
+adults,4,4
+children,0.0,8988
+children,1.0,428
+children,2.0,340
+children,3.0,10
+babies,0,9691
+babies,1,74
+babies,2,1
+meal,0,7542
+meal,2,1224
+meal,3,842
+meal,4,93
+meal,1,65
+country,87,3955
+country,40,982
+country,39,857
+country,36,701
+country,30,588
+country,54,317
+country,50,253
+country,107,197
+country,17,183
+country,10,183
+country,79,182
+country,19,150
+country,23,121
+country,9,112
+country,21,101
+country,98,99
+country,85,77
+country,53,56
+country,80,48
+country,90,46
+country,89,44
+country,32,37
+country,38,34
+country,8,28
+country,66,25
+country,0,23
+country,69,21
+country,49,19
+country,102,19
+country,29,17
+country,47,16
+country,4,16
+country,46,15
+country,58,13
+country,60,10
+country,110,9
+country,44,9
+country,81,9
+country,13,8
+country,100,8
+country,94,7
+country,37,7
+country,20,7
+country,33,6
+country,28,6
+country,105,6
+country,51,6
+country,65,6
+country,35,6
+country,52,5
+country,72,5
+country,92,5
+country,103,4
+country,75,4
+country,24,4
+country,84,4
+country,106,4
+country,67,3
+country,15,3
+country,48,3
+country,109,3
+country,62,3
+country,3,3
+country,14,3
+country,25,3
+country,93,3
+country,83,2
+country,57,2
+country,78,2
+country,45,2
+country,41,2
+country,96,2
+country,27,2
+country,97,2
+country,42,2
+country,68,2
+country,61,2
+country,5,2
+country,101,2
+country,77,2
+country,43,1
+country,91,1
+country,82,1
+country,104,1
+country,26,1
+country,59,1
+country,1,1
+country,95,1
+country,74,1
+country,18,1
+country,56,1
+country,16,1
+country,108,1
+country,7,1
+country,73,1
+country,70,1
+country,88,1
+country,71,1
+country,55,1
+country,86,1
+country,12,1
+country,6,1
+country,11,1
+country,76,1
+country,64,1
+country,31,1
+country,34,1
+country,2,1
+country,22,1
+country,63,1
+country,99,1
+market_segment,6,4614
+market_segment,5,1980
+market_segment,4,1653
+market_segment,3,1036
+market_segment,2,396
+market_segment,1,65
+market_segment,0,22
+distribution_channel,3,8019
+distribution_channel,1,1196
+distribution_channel,0,529
+distribution_channel,2,22
+is_repeated_guest,0,9464
+is_repeated_guest,1,302
+previous_cancellations,0,9235
+previous_cancellations,1,494
+previous_cancellations,2,8
+previous_cancellations,3,6
+previous_cancellations,26,5
+previous_cancellations,24,5
+previous_cancellations,25,4
+previous_cancellations,11,2
+previous_cancellations,4,2
+previous_cancellations,13,2
+previous_cancellations,6,2
+previous_cancellations,19,1
+previous_bookings_not_canceled,0,9485
+previous_bookings_not_canceled,1,113
+previous_bookings_not_canceled,2,42
+previous_bookings_not_canceled,3,35
+previous_bookings_not_canceled,5,15
+previous_bookings_not_canceled,6,11
+previous_bookings_not_canceled,4,11
+previous_bookings_not_canceled,9,7
+previous_bookings_not_canceled,7,5
+previous_bookings_not_canceled,11,5
+previous_bookings_not_canceled,13,4
+previous_bookings_not_canceled,8,4
+previous_bookings_not_canceled,14,4
+previous_bookings_not_canceled,10,3
+previous_bookings_not_canceled,24,3
+previous_bookings_not_canceled,19,3
+previous_bookings_not_canceled,15,2
+previous_bookings_not_canceled,12,2
+previous_bookings_not_canceled,27,2
+previous_bookings_not_canceled,31,1
+previous_bookings_not_canceled,16,1
+previous_bookings_not_canceled,32,1
+previous_bookings_not_canceled,29,1
+previous_bookings_not_canceled,18,1
+previous_bookings_not_canceled,72,1
+previous_bookings_not_canceled,23,1
+previous_bookings_not_canceled,20,1
+previous_bookings_not_canceled,22,1
+previous_bookings_not_canceled,42,1
+reserved_room_type,0,6993
+reserved_room_type,3,1586
+reserved_room_type,4,522
+reserved_room_type,5,270
+reserved_room_type,6,203
+reserved_room_type,2,81
+reserved_room_type,1,69
+reserved_room_type,7,42
+assigned_room_type,0,6007
+assigned_room_type,3,2092
+assigned_room_type,4,623
+assigned_room_type,5,335
+assigned_room_type,6,238
+assigned_room_type,2,204
+assigned_room_type,1,168
+assigned_room_type,7,54
+assigned_room_type,8,28
+assigned_room_type,9,17
+booking_changes,0,8233
+booking_changes,1,1070
+booking_changes,2,324
+booking_changes,3,87
+booking_changes,4,28
+booking_changes,5,14
+booking_changes,6,6
+booking_changes,7,3
+booking_changes,13,1
+deposit_type,0,8573
+deposit_type,1,1178
+deposit_type,2,15
+agent,9.0,2665
+agent,240.0,1148
+agent,14.0,668
+agent,250.0,613
+agent,1.0,606
+agent,6.0,291
+agent,7.0,289
+agent,40.0,160
+agent,37.0,133
+agent,241.0,129
+agent,28.0,125
+agent,3.0,116
+agent,8.0,115
+agent,19.0,96
+agent,29.0,75
+agent,314.0,73
+agent,21.0,73
+agent,83.0,66
+agent,171.0,61
+agent,298.0,59
+agent,30.0,57
+agent,273.0,56
+agent,229.0,53
+agent,96.0,52
+agent,242.0,52
+agent,85.0,49
+agent,134.0,49
+agent,20.0,45
+agent,26.0,44
+agent,315.0,44
+agent,38.0,43
+agent,243.0,43
+agent,12.0,40
+agent,56.0,37
+agent,22.0,36
+agent,58.0,35
+agent,94.0,35
+agent,16.0,34
+agent,27.0,33
+agent,15.0,33
+agent,236.0,30
+agent,44.0,29
+agent,34.0,28
+agent,119.0,28
+agent,86.0,27
+agent,251.0,27
+agent,45.0,27
+agent,177.0,27
+agent,138.0,25
+agent,191.0,25
+agent,11.0,24
+agent,535.0,24
+agent,195.0,24
+agent,196.0,23
+agent,10.0,22
+agent,115.0,21
+agent,248.0,20
+agent,154.0,20
+agent,47.0,20
+agent,156.0,19
+agent,78.0,18
+agent,234.0,18
+agent,95.0,17
+agent,281.0,17
+agent,152.0,17
+agent,17.0,16
+agent,252.0,16
+agent,68.0,16
+agent,378.0,16
+agent,175.0,16
+agent,385.0,16
+agent,208.0,16
+agent,31.0,15
+agent,143.0,15
+agent,5.0,14
+agent,67.0,13
+agent,330.0,13
+agent,326.0,12
+agent,142.0,12
+agent,410.0,12
+agent,147.0,11
+agent,308.0,11
+agent,39.0,11
+agent,98.0,11
+agent,170.0,10
+agent,464.0,10
+agent,305.0,9
+agent,296.0,9
+agent,254.0,9
+agent,2.0,9
+agent,35.0,9
+agent,323.0,9
+agent,155.0,9
+agent,481.0,9
+agent,146.0,9
+agent,253.0,8
+agent,69.0,8
+agent,52.0,8
+agent,168.0,8
+agent,220.0,8
+agent,89.0,8
+agent,42.0,8
+agent,82.0,7
+agent,306.0,7
+agent,132.0,7
+agent,324.0,7
+agent,245.0,7
+agent,104.0,7
+agent,127.0,6
+agent,36.0,6
+agent,332.0,6
+agent,159.0,6
+agent,13.0,6
+agent,118.0,6
+agent,368.0,6
+agent,41.0,6
+agent,390.0,6
+agent,75.0,5
+agent,339.0,5
+agent,493.0,5
+agent,181.0,5
+agent,360.0,5
+agent,235.0,5
+agent,336.0,5
+agent,91.0,5
+agent,99.0,5
+agent,79.0,5
+agent,440.0,5
+agent,133.0,4
+agent,71.0,4
+agent,157.0,4
+agent,307.0,4
+agent,495.0,4
+agent,201.0,4
+agent,66.0,4
+agent,4.0,4
+agent,121.0,4
+agent,468.0,4
+agent,249.0,4
+agent,387.0,4
+agent,151.0,4
+agent,467.0,3
+agent,63.0,3
+agent,393.0,3
+agent,328.0,3
+agent,111.0,3
+agent,87.0,3
+agent,436.0,3
+agent,531.0,3
+agent,192.0,3
+agent,350.0,3
+agent,81.0,3
+agent,261.0,3
+agent,184.0,3
+agent,290.0,3
+agent,492.0,3
+agent,434.0,3
+agent,126.0,3
+agent,149.0,3
+agent,185.0,3
+agent,223.0,3
+agent,110.0,2
+agent,174.0,2
+agent,55.0,2
+agent,348.0,2
+agent,257.0,2
+agent,74.0,2
+agent,359.0,2
+agent,173.0,2
+agent,162.0,2
+agent,205.0,2
+agent,411.0,2
+agent,106.0,2
+agent,77.0,2
+agent,479.0,2
+agent,64.0,2
+agent,57.0,2
+agent,425.0,2
+agent,459.0,2
+agent,256.0,2
+agent,354.0,2
+agent,375.0,2
+agent,455.0,1
+agent,313.0,1
+agent,182.0,1
+agent,275.0,1
+agent,418.0,1
+agent,129.0,1
+agent,406.0,1
+agent,60.0,1
+agent,262.0,1
+agent,211.0,1
+agent,502.0,1
+agent,128.0,1
+agent,432.0,1
+agent,287.0,1
+agent,394.0,1
+agent,183.0,1
+agent,344.0,1
+agent,53.0,1
+agent,310.0,1
+agent,404.0,1
+agent,364.0,1
+agent,286.0,1
+agent,508.0,1
+agent,50.0,1
+agent,405.0,1
+agent,285.0,1
+agent,288.0,1
+agent,163.0,1
+agent,33.0,1
+agent,103.0,1
+agent,247.0,1
+agent,461.0,1
+agent,423.0,1
+agent,23.0,1
+days_in_waiting_list,0,9451
+days_in_waiting_list,39,20
+days_in_waiting_list,58,18
+days_in_waiting_list,69,11
+days_in_waiting_list,50,10
+days_in_waiting_list,35,10
+days_in_waiting_list,44,10
+days_in_waiting_list,31,10
+days_in_waiting_list,46,9
+days_in_waiting_list,96,9
+days_in_waiting_list,3,8
+days_in_waiting_list,111,8
+days_in_waiting_list,15,7
+days_in_waiting_list,122,7
+days_in_waiting_list,77,7
+days_in_waiting_list,87,6
+days_in_waiting_list,101,5
+days_in_waiting_list,20,5
+days_in_waiting_list,62,5
+days_in_waiting_list,56,5
+days_in_waiting_list,34,5
+days_in_waiting_list,223,5
+days_in_waiting_list,99,5
+days_in_waiting_list,19,5
+days_in_waiting_list,22,5
+days_in_waiting_list,391,4
+days_in_waiting_list,45,4
+days_in_waiting_list,63,4
+days_in_waiting_list,68,4
+days_in_waiting_list,38,4
+days_in_waiting_list,28,4
+days_in_waiting_list,85,3
+days_in_waiting_list,236,3
+days_in_waiting_list,4,3
+days_in_waiting_list,55,3
+days_in_waiting_list,32,3
+days_in_waiting_list,187,3
+days_in_waiting_list,176,3
+days_in_waiting_list,91,3
+days_in_waiting_list,41,3
+days_in_waiting_list,60,3
+days_in_waiting_list,215,3
+days_in_waiting_list,10,3
+days_in_waiting_list,27,3
+days_in_waiting_list,120,2
+days_in_waiting_list,98,2
+days_in_waiting_list,43,2
+days_in_waiting_list,6,2
+days_in_waiting_list,93,2
+days_in_waiting_list,174,2
+days_in_waiting_list,42,2
+days_in_waiting_list,79,2
+days_in_waiting_list,40,2
+days_in_waiting_list,47,2
+days_in_waiting_list,48,2
+days_in_waiting_list,162,2
+days_in_waiting_list,107,2
+days_in_waiting_list,160,2
+days_in_waiting_list,113,2
+days_in_waiting_list,21,2
+days_in_waiting_list,25,1
+days_in_waiting_list,80,1
+days_in_waiting_list,1,1
+days_in_waiting_list,33,1
+days_in_waiting_list,97,1
+days_in_waiting_list,9,1
+days_in_waiting_list,147,1
+days_in_waiting_list,70,1
+days_in_waiting_list,178,1
+days_in_waiting_list,2,1
+days_in_waiting_list,61,1
+days_in_waiting_list,75,1
+days_in_waiting_list,76,1
+days_in_waiting_list,72,1
+days_in_waiting_list,11,1
+days_in_waiting_list,116,1
+days_in_waiting_list,330,1
+days_in_waiting_list,207,1
+days_in_waiting_list,24,1
+days_in_waiting_list,65,1
+days_in_waiting_list,36,1
+days_in_waiting_list,224,1
+days_in_waiting_list,125,1
+days_in_waiting_list,8,1
+days_in_waiting_list,7,1
+customer_type,2,7308
+customer_type,3,2072
+customer_type,0,342
+customer_type,1,44
+adr,62.0,279
+adr,75.0,242
+adr,90.0,214
+adr,65.0,200
+adr,80.0,170
+adr,0.0,149
+adr,85.0,137
+adr,120.0,133
+adr,110.0,124
+adr,95.0,121
+adr,130.0,115
+adr,100.0,115
+adr,60.0,104
+adr,48.0,97
+adr,70.0,93
+adr,115.0,86
+adr,140.0,81
+adr,99.0,80
+adr,108.0,75
+adr,170.0,69
+adr,126.0,65
+adr,160.0,61
+adr,68.0,59
+adr,105.0,57
+adr,89.0,56
+adr,135.0,54
+adr,79.2,50
+adr,98.0,48
+adr,58.0,47
+adr,89.1,46
+adr,117.0,46
+adr,62.8,46
+adr,66.0,45
+adr,67.0,44
+adr,107.1,44
+adr,72.0,44
+adr,50.0,43
+adr,101.5,43
+adr,96.0,42
+adr,94.5,42
+adr,76.5,41
+adr,109.0,40
+adr,88.0,40
+adr,55.0,38
+adr,125.0,37
+adr,74.8,36
+adr,72.25,35
+adr,86.0,35
+adr,119.0,33
+adr,104.0,32
+adr,40.0,31
+adr,79.0,31
+adr,81.0,31
+adr,85.5,31
+adr,82.0,30
+adr,96.3,30
+adr,80.75,30
+adr,129.0,29
+adr,90.95,29
+adr,93.6,28
+adr,80.1,28
+adr,35.0,28
+adr,64.0,28
+adr,116.1,27
+adr,107.0,27
+adr,150.0,27
+adr,130.5,26
+adr,125.1,25
+adr,180.0,25
+adr,87.0,25
+adr,43.0,25
+adr,144.0,24
+adr,36.0,24
+adr,92.0,24
+adr,78.0,23
+adr,101.0,23
+adr,168.3,23
+adr,39.0,23
+adr,84.0,23
+adr,139.5,22
+adr,128.0,22
+adr,30.0,22
+adr,112.0,22
+adr,89.25,22
+adr,106.0,22
+adr,54.0,21
+adr,88.4,21
+adr,85.67,21
+adr,135.9,21
+adr,59.0,20
+adr,45.0,20
+adr,162.0,20
+adr,46.0,20
+adr,153.0,20
+adr,230.0,20
+adr,38.0,19
+adr,105.3,19
+adr,73.0,19
+adr,56.0,19
+adr,122.4,19
+adr,109.8,19
+adr,34.0,18
+adr,112.5,18
+adr,52.0,18
+adr,37.8,18
+adr,76.0,18
+adr,138.0,18
+adr,139.0,17
+adr,114.0,17
+adr,94.0,17
+adr,93.0,17
+adr,136.0,17
+adr,124.0,17
+adr,98.1,17
+adr,155.0,17
+adr,90.1,16
+adr,114.3,16
+adr,126.9,16
+adr,134.0,16
+adr,148.5,16
+adr,112.67,16
+adr,123.0,16
+adr,103.5,16
+adr,145.0,16
+adr,200.0,15
+adr,149.4,15
+adr,121.5,15
+adr,190.0,15
+adr,141.0,15
+adr,29.0,15
+adr,67.5,15
+adr,91.8,15
+adr,61.0,14
+adr,120.6,14
+adr,117.9,14
+adr,169.0,14
+adr,195.0,14
+adr,44.0,14
+adr,118.8,14
+adr,189.0,14
+adr,152.1,14
+adr,42.0,13
+adr,118.0,13
+adr,33.3,13
+adr,147.0,13
+adr,159.0,13
+adr,127.0,13
+adr,121.0,13
+adr,91.0,13
+adr,100.8,13
+adr,152.0,13
+adr,69.0,13
+adr,210.0,13
+adr,102.0,13
+adr,100.3,13
+adr,156.0,13
+adr,25.0,12
+adr,82.45,12
+adr,146.0,12
+adr,112.2,12
+adr,137.7,12
+adr,47.0,12
+adr,149.0,12
+adr,102.6,12
+adr,74.0,11
+adr,37.0,11
+adr,49.0,11
+adr,185.0,11
+adr,83.0,11
+adr,175.5,11
+adr,113.4,11
+adr,63.0,11
+adr,132.3,11
+adr,90.9,11
+adr,77.0,11
+adr,78.3,11
+adr,71.0,11
+adr,111.0,11
+adr,88.2,10
+adr,79.5,10
+adr,54.5,10
+adr,172.0,10
+adr,97.0,10
+adr,140.4,10
+adr,113.0,10
+adr,55.8,10
+adr,115.2,9
+adr,174.0,9
+adr,166.0,9
+adr,154.0,9
+adr,103.7,9
+adr,43.2,9
+adr,106.2,9
+adr,41.4,9
+adr,71.1,9
+adr,97.2,9
+adr,104.4,9
+adr,179.0,9
+adr,133.0,9
+adr,161.0,9
+adr,81.9,8
+adr,240.0,8
+adr,137.0,8
+adr,175.0,8
+adr,95.2,8
+adr,171.0,8
+adr,165.0,8
+adr,114.4,8
+adr,209.0,8
+adr,159.3,8
+adr,57.0,8
+adr,27.0,8
+adr,131.0,8
+adr,123.3,8
+adr,143.1,8
+adr,199.0,8
+adr,148.0,8
+adr,224.0,8
+adr,87.3,8
+adr,198.0,7
+adr,131.4,7
+adr,219.0,7
+adr,156.6,7
+adr,122.0,7
+adr,176.0,7
+adr,119.85,7
+adr,72.75,7
+adr,73.95,7
+adr,221.0,7
+adr,103.0,7
+adr,132.0,7
+adr,26.0,7
+adr,179.1,7
+adr,49.95,7
+adr,109.65,7
+adr,216.0,7
+adr,133.33,7
+adr,207.9,7
+adr,44.5,7
+adr,32.0,7
+adr,136.8,7
+adr,260.0,7
+adr,177.3,7
+adr,99.45,7
+adr,164.0,7
+adr,204.0,6
+adr,99.9,6
+adr,101.7,6
+adr,177.0,6
+adr,74.25,6
+adr,96.25,6
+adr,12.0,6
+adr,77.35,6
+adr,96.9,6
+adr,127.8,6
+adr,97.5,6
+adr,250.0,6
+adr,80.3,6
+adr,50.4,6
+adr,26.1,6
+adr,8.0,6
+adr,211.0,6
+adr,157.0,6
+adr,166.5,6
+adr,6.0,6
+adr,151.0,6
+adr,207.0,6
+adr,46.4,6
+adr,95.4,6
+adr,52.2,6
+adr,146.7,6
+adr,115.6,6
+adr,136.5,5
+adr,61.2,5
+adr,157.5,5
+adr,138.6,5
+adr,69.3,5
+adr,86.4,5
+adr,86.55,5
+adr,138.55,5
+adr,63.75,5
+adr,38.5,5
+adr,30.24,5
+adr,142.2,5
+adr,99.5,5
+adr,150.3,5
+adr,206.0,5
+adr,181.0,5
+adr,73.5,5
+adr,88.5,5
+adr,225.0,5
+adr,127.5,5
+adr,158.0,5
+adr,130.05,5
+adr,194.0,5
+adr,202.0,5
+adr,49.5,5
+adr,167.0,5
+adr,94.8,5
+adr,34.4,5
+adr,130.9,5
+adr,132.6,5
+adr,116.0,5
+adr,73.8,5
+adr,196.0,5
+adr,104.85,5
+adr,92.65,5
+adr,39.6,5
+adr,193.0,5
+adr,234.0,5
+adr,116.5,5
+adr,76.67,5
+adr,103.05,4
+adr,98.8,4
+adr,84.6,4
+adr,223.0,4
+adr,31.0,4
+adr,40.5,4
+adr,212.0,4
+adr,270.0,4
+adr,46.8,4
+adr,51.0,4
+adr,52.85,4
+adr,52.8,4
+adr,83.16,4
+adr,108.9,4
+adr,107.95,4
+adr,244.0,4
+adr,205.0,4
+adr,142.5,4
+adr,95.5,4
+adr,142.0,4
+adr,245.0,4
+adr,134.3,4
+adr,126.67,4
+adr,129.6,4
+adr,34.2,4
+adr,52.4,4
+adr,104.55,4
+adr,64.8,4
+adr,125.8,4
+adr,40.05,4
+adr,78.5,4
+adr,82.8,4
+adr,178.0,4
+adr,124.2,4
+adr,66.6,4
+adr,128.7,4
+adr,241.0,4
+adr,201.0,4
+adr,239.0,4
+adr,108.8,4
+adr,50.85,4
+adr,133.5,4
+adr,188.0,4
+adr,87.78,4
+adr,70.4,4
+adr,265.0,4
+adr,108.3,4
+adr,216.9,4
+adr,119.7,4
+adr,232.0,4
+adr,76.8,4
+adr,184.0,4
+adr,145.5,4
+adr,18.0,4
+adr,57.6,4
+adr,111.6,4
+adr,70.67,4
+adr,73.37,4
+adr,138.5,4
+adr,171.9,4
+adr,134.1,4
+adr,51.4,4
+adr,93.08,4
+adr,135.15,4
+adr,45.5,4
+adr,114.75,4
+adr,168.0,4
+adr,110.7,3
+adr,48.5,3
+adr,59.8,3
+adr,73.33,3
+adr,98.25,3
+adr,58.9,3
+adr,38.4,3
+adr,77.85,3
+adr,164.8,3
+adr,89.4,3
+adr,35.1,3
+adr,110.4,3
+adr,117.04,3
+adr,101.15,3
+adr,129.7,3
+adr,89.75,3
+adr,162.9,3
+adr,135.27,3
+adr,163.0,3
+adr,135.2,3
+adr,192.0,3
+adr,72.9,3
+adr,35.11,3
+adr,170.33,3
+adr,161.1,3
+adr,84.8,3
+adr,182.0,3
+adr,100.7,3
+adr,187.0,3
+adr,105.83,3
+adr,120.7,3
+adr,71.28,3
+adr,158.5,3
+adr,82.88,3
+adr,138.38,3
+adr,78.2,3
+adr,123.5,3
+adr,143.0,3
+adr,97.75,3
+adr,57.8,3
+adr,60.5,3
+adr,73.15,3
+adr,30.6,3
+adr,130.67,3
+adr,17.6,3
+adr,229.0,3
+adr,67.32,3
+adr,91.48,3
+adr,85.33,3
+adr,158.95,3
+adr,254.0,3
+adr,46.75,3
+adr,101.33,3
+adr,247.0,3
+adr,222.0,3
+adr,60.3,3
+adr,89.14,3
+adr,93.5,3
+adr,97.71,3
+adr,78.25,3
+adr,84.58,3
+adr,72.07,3
+adr,150.45,3
+adr,98.4,3
+adr,123.25,3
+adr,44.8,3
+adr,127.33,3
+adr,246.0,3
+adr,43.5,3
+adr,183.0,3
+adr,67.15,3
+adr,118.62,3
+adr,1.0,3
+adr,262.0,3
+adr,228.0,3
+adr,224.67,3
+adr,52.36,3
+adr,189.9,3
+adr,159.5,3
+adr,74.7,3
+adr,134.5,3
+adr,198.9,3
+adr,76.93,3
+adr,70.5,3
+adr,91.5,3
+adr,95.88,3
+adr,57.5,3
+adr,48.75,3
+adr,71.4,3
+adr,76.81,3
+adr,214.0,3
+adr,77.23,3
+adr,119.25,3
+adr,90.67,3
+adr,59.5,3
+adr,138.67,3
+adr,93.33,3
+adr,89.3,3
+adr,190.8,3
+adr,133.2,3
+adr,55.68,3
+adr,186.0,3
+adr,147.9,2
+adr,77.6,2
+adr,66.42,2
+adr,56.21,2
+adr,85.7,2
+adr,92.94,2
+adr,269.0,2
+adr,78.35,2
+adr,77.76,2
+adr,94.05,2
+adr,104.5,2
+adr,123.33,2
+adr,93.15,2
+adr,87.01,2
+adr,70.75,2
+adr,137.5,2
+adr,226.5,2
+adr,79.72,2
+adr,100.73,2
+adr,123.64,2
+adr,259.0,2
+adr,107.2,2
+adr,131.1,2
+adr,58.4,2
+adr,169.5,2
+adr,48.8,2
+adr,135.33,2
+adr,86.75,2
+adr,237.0,2
+adr,76.33,2
+adr,151.33,2
+adr,146.4,2
+adr,280.0,2
+adr,253.0,2
+adr,73.92,2
+adr,149.33,2
+adr,81.6,2
+adr,112.7,2
+adr,155.5,2
+adr,90.6,2
+adr,32.4,2
+adr,80.85,2
+adr,132.9,2
+adr,254.31,2
+adr,49.3,2
+adr,37.4,2
+adr,71.55,2
+adr,68.07,2
+adr,89.76,2
+adr,175.32,2
+adr,172.8,2
+adr,177.75,2
+adr,70.46,2
+adr,48.6,2
+adr,113.9,2
+adr,41.0,2
+adr,81.75,2
+adr,91.33,2
+adr,83.85,2
+adr,96.67,2
+adr,231.0,2
+adr,86.36,2
+adr,82.4,2
+adr,154.5,2
+adr,80.24,2
+adr,91.45,2
+adr,73.9,2
+adr,157.85,2
+adr,145.8,2
+adr,65.8,2
+adr,256.0,2
+adr,57.55,2
+adr,285.0,2
+adr,120.8,2
+adr,224.1,2
+adr,143.33,2
+adr,77.5,2
+adr,81.99,2
+adr,184.45,2
+adr,111.75,2
+adr,273.0,2
+adr,75.54,2
+adr,114.5,2
+adr,305.0,2
+adr,45.6,2
+adr,90.33,2
+adr,115.5,2
+adr,105.9,2
+adr,56.7,2
+adr,134.14,2
+adr,182.25,2
+adr,194.5,2
+adr,242.0,2
+adr,26.5,2
+adr,72.2,2
+adr,38.33,2
+adr,107.5,2
+adr,144.33,2
+adr,85.75,2
+adr,91.3,2
+adr,128.8,2
+adr,57.43,2
+adr,203.5,2
+adr,69.2,2
+adr,104.49,2
+adr,53.85,2
+adr,113.7,2
+adr,141.6,2
+adr,86.1,2
+adr,59.6,2
+adr,157.2,2
+adr,193.5,2
+adr,77.78,2
+adr,64.95,2
+adr,160.2,2
+adr,130.13,2
+adr,28.0,2
+adr,122.7,2
+adr,99.25,2
+adr,46.98,2
+adr,61.5,2
+adr,75.53,2
+adr,59.16,2
+adr,46.67,2
+adr,65.6,2
+adr,53.0,2
+adr,146.33,2
+adr,62.48,2
+adr,114.57,2
+adr,295.0,2
+adr,115.75,2
+adr,201.25,2
+adr,118.15,2
+adr,231.6,2
+adr,54.99,2
+adr,64.5,2
+adr,117.1,2
+adr,45.9,2
+adr,33.0,2
+adr,101.38,2
+adr,95.33,2
+adr,99.6,2
+adr,32.24,2
+adr,91.67,2
+adr,231.5,2
+adr,151.2,2
+adr,137.71,2
+adr,121.55,2
+adr,299.0,2
+adr,184.5,2
+adr,155.57,2
+adr,44.66,2
+adr,64.1,2
+adr,64.9,2
+adr,82.47,2
+adr,155.25,2
+adr,145.67,2
+adr,83.61,2
+adr,67.76,2
+adr,103.75,2
+adr,40.95,2
+adr,176.4,2
+adr,40.8,2
+adr,210.6,2
+adr,186.67,2
+adr,82.5,2
+adr,70.69,2
+adr,220.4,2
+adr,22.5,2
+adr,109.67,2
+adr,154.8,2
+adr,88.8,2
+adr,70.44,2
+adr,108.45,2
+adr,88.01,2
+adr,111.35,2
+adr,164.7,2
+adr,61.56,2
+adr,69.99,2
+adr,106.5,2
+adr,86.91,2
+adr,79.84,2
+adr,106.4,2
+adr,61.4,2
+adr,205.2,2
+adr,104.76,2
+adr,153.9,2
+adr,83.5,2
+adr,54.67,2
+adr,120.43,2
+adr,131.43,2
+adr,68.74,2
+adr,215.0,2
+adr,162.3,2
+adr,96.12,2
+adr,72.24,2
+adr,153.75,2
+adr,77.03,2
+adr,275.0,2
+adr,152.38,2
+adr,77.25,2
+adr,249.0,2
+adr,97.02,2
+adr,64.14,2
+adr,97.92,2
+adr,148.6,2
+adr,290.0,2
+adr,76.23,2
+adr,83.9,2
+adr,69.22,2
+adr,122.34,2
+adr,146.67,2
+adr,95.1,2
+adr,132.33,2
+adr,109.25,2
+adr,182.6,2
+adr,100.5,2
+adr,252.0,2
+adr,133.74,2
+adr,58.95,2
+adr,141.71,2
+adr,85.2,2
+adr,47.33,2
+adr,213.0,2
+adr,123.2,2
+adr,74.15,2
+adr,220.0,2
+adr,102.8,2
+adr,271.0,2
+adr,100.67,2
+adr,113.5,2
+adr,72.1,2
+adr,124.5,2
+adr,66.5,2
+adr,116.7,2
+adr,78.54,2
+adr,115.8,2
+adr,85.59,2
+adr,69.7,2
+adr,121.8,2
+adr,122.5,2
+adr,87.03,2
+adr,29.16,2
+adr,79.05,2
+adr,117.3,2
+adr,112.05,2
+adr,60.98,2
+adr,99.3,2
+adr,75.46,2
+adr,82.35,2
+adr,283.0,2
+adr,105.4,2
+adr,214.6,2
+adr,91.1,2
+adr,54.71,2
+adr,163.8,2
+adr,63.4,2
+adr,159.33,2
+adr,122.33,2
+adr,112.1,2
+adr,106.33,2
+adr,75.65,2
+adr,125.9,2
+adr,86.95,2
+adr,169.48,2
+adr,127.26,2
+adr,158.4,2
+adr,63.6,2
+adr,69.5,2
+adr,89.46,2
+adr,63.14,2
+adr,102.25,2
+adr,101.4,2
+adr,131.75,2
+adr,58.6,2
+adr,249.5,2
+adr,102.1,2
+adr,187.2,2
+adr,103.95,2
+adr,41.6,2
+adr,173.0,2
+adr,144.9,2
+adr,258.0,2
+adr,230.43,2
+adr,106.55,2
+adr,92.4,2
+adr,191.0,2
+adr,146.03,2
+adr,139.51,2
+adr,80.26,2
+adr,81.82,2
+adr,62.5,2
+adr,123.75,2
+adr,77.14,2
+adr,65.75,2
+adr,139.8,2
+adr,75.6,2
+adr,179.81,1
+adr,150.22,1
+adr,209.1,1
+adr,119.1,1
+adr,74.48,1
+adr,66.29,1
+adr,145.14,1
+adr,99.68,1
+adr,97.54,1
+adr,46.57,1
+adr,116.95,1
+adr,66.49,1
+adr,74.1,1
+adr,64.37,1
+adr,137.57,1
+adr,102.72,1
+adr,52.35,1
+adr,59.04,1
+adr,128.21,1
+adr,99.87,1
+adr,131.6,1
+adr,237.45,1
+adr,112.59,1
+adr,182.85,1
+adr,39.69,1
+adr,51.18,1
+adr,140.5,1
+adr,102.2,1
+adr,120.15,1
+adr,82.51,1
+adr,37.43,1
+adr,145.1,1
+adr,110.1,1
+adr,175.2,1
+adr,58.14,1
+adr,83.3,1
+adr,100.71,1
+adr,68.8,1
+adr,177.41,1
+adr,138.42,1
+adr,160.3,1
+adr,36.84,1
+adr,84.49,1
+adr,206.67,1
+adr,218.25,1
+adr,72.95,1
+adr,86.25,1
+adr,81.7,1
+adr,67.91,1
+adr,159.6,1
+adr,75.4,1
+adr,126.88,1
+adr,37.33,1
+adr,69.4,1
+adr,61.88,1
+adr,145.4,1
+adr,62.29,1
+adr,93.01,1
+adr,88.54,1
+adr,138.99,1
+adr,191.32,1
+adr,119.43,1
+adr,121.33,1
+adr,49.2,1
+adr,181.67,1
+adr,102.04,1
+adr,289.5,1
+adr,204.75,1
+adr,137.21,1
+adr,54.72,1
+adr,65.14,1
+adr,164.25,1
+adr,40.94,1
+adr,93.84,1
+adr,84.38,1
+adr,114.39,1
+adr,31.2,1
+adr,109.1,1
+adr,147.67,1
+adr,49.44,1
+adr,96.8,1
+adr,39.3,1
+adr,204.6,1
+adr,147.59,1
+adr,107.63,1
+adr,132.08,1
+adr,24.87,1
+adr,116.3,1
+adr,141.04,1
+adr,160.47,1
+adr,51.85,1
+adr,153.71,1
+adr,45.51,1
+adr,104.05,1
+adr,246.25,1
+adr,162.22,1
+adr,44.88,1
+adr,80.23,1
+adr,42.4,1
+adr,148.74,1
+adr,76.32,1
+adr,79.4,1
+adr,122.89,1
+adr,85.8,1
+adr,153.67,1
+adr,90.78,1
+adr,76.58,1
+adr,34.5,1
+adr,127.93,1
+adr,303.7,1
+adr,25.5,1
+adr,59.02,1
+adr,97.12,1
+adr,100.37,1
+adr,55.1,1
+adr,75.33,1
+adr,2.0,1
+adr,75.27,1
+adr,150.63,1
+adr,159.9,1
+adr,132.84,1
+adr,169.43,1
+adr,86.14,1
+adr,10.0,1
+adr,81.77,1
+adr,87.55,1
+adr,140.63,1
+adr,74.61,1
+adr,190.88,1
+adr,26.95,1
+adr,74.4,1
+adr,200.7,1
+adr,108.67,1
+adr,129.4,1
+adr,131.06,1
+adr,119.07,1
+adr,75.5,1
+adr,73.73,1
+adr,121.21,1
+adr,337.0,1
+adr,96.13,1
+adr,50.6,1
+adr,81.28,1
+adr,67.52,1
+adr,174.33,1
+adr,65.66,1
+adr,65.25,1
+adr,47.6,1
+adr,227.92,1
+adr,89.7,1
+adr,117.81,1
+adr,161.7,1
+adr,116.45,1
+adr,103.97,1
+adr,120.12,1
+adr,53.1,1
+adr,85.86,1
+adr,115.05,1
+adr,72.8,1
+adr,226.95,1
+adr,232.5,1
+adr,59.03,1
+adr,135.1,1
+adr,72.14,1
+adr,140.33,1
+adr,70.55,1
+adr,108.11,1
+adr,274.6,1
+adr,168.6,1
+adr,302.86,1
+adr,82.44,1
+adr,150.86,1
+adr,156.3,1
+adr,238.0,1
+adr,223.6,1
+adr,157.95,1
+adr,164.88,1
+adr,97.4,1
+adr,35.33,1
+adr,43.93,1
+adr,105.6,1
+adr,289.0,1
+adr,63.9,1
+adr,81.67,1
+adr,55.89,1
+adr,50.3,1
+adr,107.03,1
+adr,102.51,1
+adr,168.28,1
+adr,124.3,1
+adr,104.23,1
+adr,48.88,1
+adr,134.57,1
+adr,105.75,1
+adr,69.02,1
+adr,177.33,1
+adr,1.48,1
+adr,93.38,1
+adr,143.05,1
+adr,69.24,1
+adr,69.25,1
+adr,165.5,1
+adr,159.38,1
+adr,61.8,1
+adr,55.43,1
+adr,143.57,1
+adr,167.6,1
+adr,57.67,1
+adr,172.33,1
+adr,147.3,1
+adr,89.17,1
+adr,162.33,1
+adr,40.32,1
+adr,174.25,1
+adr,150.8,1
+adr,138.83,1
+adr,58.5,1
+adr,65.76,1
+adr,86.43,1
+adr,59.79,1
+adr,73.32,1
+adr,165.33,1
+adr,63.71,1
+adr,168.8,1
+adr,105.26,1
+adr,63.06,1
+adr,197.8,1
+adr,42.17,1
+adr,31.45,1
+adr,210.51,1
+adr,74.75,1
+adr,123.9,1
+adr,277.0,1
+adr,145.35,1
+adr,112.8,1
+adr,55.63,1
+adr,51.13,1
+adr,62.05,1
+adr,95.7,1
+adr,85.77,1
+adr,205.33,1
+adr,184.24,1
+adr,303.0,1
+adr,167.4,1
+adr,32.77,1
+adr,119.88,1
+adr,55.08,1
+adr,44.36,1
+adr,169.2,1
+adr,142.07,1
+adr,274.67,1
+adr,253.65,1
+adr,186.74,1
+adr,49.66,1
+adr,146.57,1
+adr,90.47,1
+adr,138.25,1
+adr,325.0,1
+adr,137.76,1
+adr,128.9,1
+adr,102.41,1
+adr,266.6,1
+adr,164.9,1
+adr,94.6,1
+adr,61.65,1
+adr,46.5,1
+adr,87.71,1
+adr,42.5,1
+adr,111.2,1
+adr,284.0,1
+adr,107.38,1
+adr,120.58,1
+adr,202.54,1
+adr,159.07,1
+adr,99.71,1
+adr,47.54,1
+adr,118.75,1
+adr,86.79,1
+adr,74.95,1
+adr,70.53,1
+adr,228.3,1
+adr,79.43,1
+adr,88.56,1
+adr,294.0,1
+adr,183.33,1
+adr,157.67,1
+adr,86.88,1
+adr,158.6,1
+adr,125.54,1
+adr,98.6,1
+adr,78.95,1
+adr,170.61,1
+adr,163.97,1
+adr,175.71,1
+adr,33.6,1
+adr,142.63,1
+adr,133.48,1
+adr,187.11,1
+adr,132.13,1
+adr,124.8,1
+adr,71.3,1
+adr,49.7,1
+adr,71.19,1
+adr,94.91,1
+adr,116.36,1
+adr,270.1,1
+adr,95.25,1
+adr,103.8,1
+adr,159.75,1
+adr,149.6,1
+adr,146.93,1
+adr,198.8,1
+adr,319.0,1
+adr,120.95,1
+adr,87.19,1
+adr,239.3,1
+adr,87.8,1
+adr,82.95,1
+adr,266.67,1
+adr,124.25,1
+adr,76.97,1
+adr,197.2,1
+adr,99.24,1
+adr,74.54,1
+adr,168.71,1
+adr,47.86,1
+adr,113.75,1
+adr,118.84,1
+adr,174.07,1
+adr,60.83,1
+adr,154.71,1
+adr,203.85,1
+adr,292.5,1
+adr,135.57,1
+adr,131.88,1
+adr,43.33,1
+adr,93.57,1
+adr,72.5,1
+adr,85.87,1
+adr,146.16,1
+adr,187.14,1
+adr,56.94,1
+adr,73.46,1
+adr,105.11,1
+adr,95.13,1
+adr,165.67,1
+adr,215.5,1
+adr,255.0,1
+adr,56.98,1
+adr,103.6,1
+adr,56.33,1
+adr,110.18,1
+adr,139.2,1
+adr,121.35,1
+adr,64.67,1
+adr,73.7,1
+adr,131.03,1
+adr,279.0,1
+adr,46.44,1
+adr,110.13,1
+adr,188.88,1
+adr,225.48,1
+adr,142.03,1
+adr,152.5,1
+adr,121.28,1
+adr,99.2,1
+adr,119.44,1
+adr,83.8,1
+adr,157.25,1
+adr,99.95,1
+adr,48.06,1
+adr,160.71,1
+adr,206.12,1
+adr,71.48,1
+adr,151.5,1
+adr,247.33,1
+adr,152.67,1
+adr,165.11,1
+adr,94.25,1
+adr,52.86,1
+adr,136.33,1
+adr,137.75,1
+adr,179.94,1
+adr,75.1,1
+adr,165.9,1
+adr,206.6,1
+adr,340.0,1
+adr,68.81,1
+adr,109.35,1
+adr,96.33,1
+adr,97.87,1
+adr,91.38,1
+adr,69.36,1
+adr,219.8,1
+adr,130.75,1
+adr,62.37,1
+adr,128.99,1
+adr,122.6,1
+adr,46.96,1
+adr,75.08,1
+adr,194.64,1
+adr,116.27,1
+adr,90.61,1
+adr,88.7,1
+adr,97.3,1
+adr,91.69,1
+adr,217.0,1
+adr,54.9,1
+adr,171.96,1
+adr,72.43,1
+adr,123.43,1
+adr,66.45,1
+adr,204.01,1
+adr,185.33,1
+adr,143.29,1
+adr,184.25,1
+adr,80.46,1
+adr,42.43,1
+adr,65.36,1
+adr,102.68,1
+adr,91.81,1
+adr,73.42,1
+adr,152.4,1
+adr,134.33,1
+adr,69.12,1
+adr,121.56,1
+adr,151.71,1
+adr,359.0,1
+adr,53.47,1
+adr,73.1,1
+adr,119.57,1
+adr,56.89,1
+adr,105.54,1
+adr,196.2,1
+adr,50.88,1
+adr,113.57,1
+adr,115.82,1
+adr,122.66,1
+adr,156.22,1
+adr,56.85,1
+adr,183.75,1
+adr,48.43,1
+adr,94.78,1
+adr,300.0,1
+adr,113.41,1
+adr,163.53,1
+adr,162.85,1
+adr,182.5,1
+adr,79.26,1
+adr,93.09,1
+adr,150.15,1
+adr,89.71,1
+adr,110.15,1
+adr,212.58,1
+adr,173.25,1
+adr,51.28,1
+adr,92.9,1
+adr,111.83,1
+adr,185.37,1
+adr,215.86,1
+adr,276.0,1
+adr,113.1,1
+adr,194.14,1
+adr,10.8,1
+adr,142.6,1
+adr,151.86,1
+adr,43.78,1
+adr,81.8,1
+adr,84.92,1
+adr,51.84,1
+adr,69.33,1
+adr,105.74,1
+adr,146.78,1
+adr,154.93,1
+adr,217.33,1
+adr,55.14,1
+adr,154.35,1
+adr,80.2,1
+adr,236.0,1
+adr,127.15,1
+adr,163.63,1
+adr,101.65,1
+adr,235.0,1
+adr,76.89,1
+adr,100.66,1
+adr,206.2,1
+adr,113.79,1
+adr,123.84,1
+adr,57.92,1
+adr,42.25,1
+adr,129.8,1
+adr,50.22,1
+adr,223.57,1
+adr,118.86,1
+adr,109.23,1
+adr,247.67,1
+adr,225.6,1
+adr,107.99,1
+adr,185.6,1
+adr,119.83,1
+adr,76.3,1
+adr,150.82,1
+adr,120.06,1
+adr,41.33,1
+adr,140.6,1
+adr,207.63,1
+adr,239.6,1
+adr,105.37,1
+adr,114.67,1
+adr,92.7,1
+adr,84.47,1
+adr,94.3,1
+adr,57.72,1
+adr,315.0,1
+adr,155.7,1
+adr,78.15,1
+adr,189.85,1
+adr,145.3,1
+adr,52.56,1
+adr,293.33,1
+adr,107.3,1
+adr,199.33,1
+adr,127.75,1
+adr,146.2,1
+adr,95.67,1
+adr,136.1,1
+adr,72.38,1
+adr,300.71,1
+adr,112.33,1
+adr,72.37,1
+adr,78.81,1
+adr,180.9,1
+adr,98.33,1
+adr,223.5,1
+adr,51.27,1
+adr,181.33,1
+adr,115.09,1
+adr,232.6,1
+adr,170.1,1
+adr,50.55,1
+adr,102.85,1
+adr,85.05,1
+adr,46.27,1
+adr,106.71,1
+adr,147.24,1
+adr,119.67,1
+adr,174.5,1
+adr,59.22,1
+adr,98.55,1
+adr,77.88,1
+adr,118.58,1
+adr,72.58,1
+adr,202.5,1
+adr,121.6,1
+adr,93.86,1
+adr,81.35,1
+adr,161.4,1
+adr,109.33,1
+adr,150.67,1
+adr,179.63,1
+adr,114.85,1
+adr,130.2,1
+adr,50.33,1
+adr,134.8,1
+adr,53.97,1
+adr,136.67,1
+adr,126.3,1
+adr,177.14,1
+adr,244.16,1
+adr,71.2,1
+adr,135.91,1
+adr,108.65,1
+adr,153.15,1
+adr,101.67,1
+adr,155.75,1
+adr,115.04,1
+adr,106.03,1
+adr,122.75,1
+adr,219.03,1
+adr,50.8,1
+adr,191.2,1
+adr,105.33,1
+adr,207.52,1
+adr,73.76,1
+adr,161.18,1
+adr,123.74,1
+adr,120.96,1
+adr,159.08,1
+adr,195.45,1
+adr,181.79,1
+adr,66.53,1
+adr,218.96,1
+adr,148.58,1
+adr,212.8,1
+adr,54.43,1
+adr,100.84,1
+adr,85.3,1
+adr,56.5,1
+adr,198.86,1
+adr,205.43,1
+adr,87.75,1
+adr,26.33,1
+adr,174.95,1
+adr,118.71,1
+adr,278.6,1
+adr,137.4,1
+adr,123.8,1
+adr,117.37,1
+adr,75.44,1
+adr,121.05,1
+adr,110.5,1
+adr,71.56,1
+adr,124.13,1
+adr,165.83,1
+adr,52.15,1
+adr,177.7,1
+adr,270.38,1
+adr,35.16,1
+adr,75.75,1
+adr,212.4,1
+adr,56.52,1
+adr,184.33,1
+adr,163.2,1
+adr,128.28,1
+adr,161.5,1
+adr,53.46,1
+adr,203.71,1
+adr,55.44,1
+adr,103.84,1
+adr,65.9,1
+adr,77.55,1
+adr,73.47,1
+adr,48.05,1
+adr,186.33,1
+adr,218.0,1
+adr,128.56,1
+adr,133.17,1
+adr,93.3,1
+adr,56.2,1
+adr,90.74,1
+adr,54.2,1
+adr,138.33,1
+adr,46.7,1
+adr,70.03,1
+adr,120.9,1
+adr,126.48,1
+adr,21.0,1
+adr,67.05,1
+adr,196.52,1
+adr,68.5,1
+adr,25.42,1
+adr,253.8,1
+adr,124.04,1
+adr,166.03,1
+adr,39.4,1
+adr,264.29,1
+adr,80.79,1
+adr,71.7,1
+adr,35.15,1
+adr,62.18,1
+adr,86.5,1
+adr,113.31,1
+adr,202.77,1
+adr,239.64,1
+adr,153.57,1
+adr,117.73,1
+adr,54.8,1
+adr,29.11,1
+adr,160.5,1
+adr,108.42,1
+adr,109.31,1
+adr,78.56,1
+adr,122.96,1
+adr,52.59,1
+adr,61.7,1
+adr,62.9,1
+adr,289.6,1
+adr,23.0,1
+adr,78.55,1
+adr,65.96,1
+adr,84.32,1
+adr,188.96,1
+adr,101.31,1
+adr,34.56,1
+adr,316.0,1
+adr,80.5,1
+adr,67.83,1
+adr,73.96,1
+adr,195.75,1
+adr,233.0,1
+adr,54.46,1
+adr,53.8,1
+adr,65.18,1
+adr,84.3,1
+adr,71.57,1
+adr,142.17,1
+adr,70.98,1
+adr,203.43,1
+adr,72.41,1
+adr,101.13,1
+adr,62.73,1
+adr,74.07,1
+adr,87.69,1
+adr,36.45,1
+adr,87.21,1
+adr,58.8,1
+adr,41.87,1
+adr,81.2,1
+adr,76.9,1
+adr,84.15,1
+adr,102.81,1
+adr,123.67,1
+adr,198.44,1
+adr,101.75,1
+adr,100.95,1
+adr,176.34,1
+adr,94.14,1
+adr,122.1,1
+adr,75.93,1
+adr,63.95,1
+adr,127.72,1
+adr,93.48,1
+adr,92.5,1
+adr,118.32,1
+adr,168.9,1
+adr,74.2,1
+adr,164.48,1
+adr,132.8,1
+adr,92.33,1
+adr,161.78,1
+adr,136.3,1
+adr,68.4,1
+adr,208.0,1
+adr,97.35,1
+adr,73.57,1
+adr,71.33,1
+adr,144.8,1
+adr,180.3,1
+adr,189.19,1
+adr,73.28,1
+adr,108.06,1
+adr,110.11,1
+adr,211.16,1
+adr,141.32,1
+adr,28.1,1
+adr,181.17,1
+adr,36.05,1
+adr,103.68,1
+adr,146.75,1
+adr,70.25,1
+adr,137.8,1
+adr,63.2,1
+adr,185.57,1
+adr,54.4,1
+adr,66.02,1
+adr,144.76,1
+adr,194.73,1
+adr,67.2,1
+adr,98.2,1
+adr,162.1,1
+adr,110.74,1
+adr,116.55,1
+adr,125.71,1
+adr,177.62,1
+adr,51.8,1
+adr,102.58,1
+adr,126.14,1
+adr,20.0,1
+adr,122.72,1
+adr,50.86,1
+adr,194.85,1
+adr,85.92,1
+adr,104.32,1
+adr,174.42,1
+adr,23.6,1
+adr,122.43,1
+adr,104.33,1
+adr,162.35,1
+adr,47.4,1
+adr,101.88,1
+adr,78.63,1
+adr,220.55,1
+adr,208.5,1
+adr,75.2,1
+adr,187.5,1
+adr,106.8,1
+adr,100.91,1
+adr,60.29,1
+adr,232.4,1
+adr,113.6,1
+adr,114.34,1
+adr,167.2,1
+adr,61.6,1
+adr,284.2,1
+adr,149.1,1
+adr,82.25,1
+adr,173.12,1
+adr,43.96,1
+adr,166.91,1
+adr,106.85,1
+adr,83.81,1
+adr,209.7,1
+adr,62.25,1
+adr,141.3,1
+adr,177.67,1
+adr,106.67,1
+adr,146.25,1
+adr,39.44,1
+adr,63.5,1
+adr,69.91,1
+adr,99.29,1
+adr,44.27,1
+adr,90.93,1
+adr,186.22,1
+adr,41.43,1
+adr,378.0,1
+adr,197.1,1
+adr,62.83,1
+adr,48.4,1
+adr,126.41,1
+adr,43.41,1
+adr,65.42,1
+adr,123.05,1
+adr,131.55,1
+adr,176.85,1
+adr,90.76,1
+adr,66.76,1
+adr,98.94,1
+adr,83.43,1
+adr,90.71,1
+adr,75.66,1
+adr,81.07,1
+adr,31.63,1
+adr,269.5,1
+adr,57.75,1
+adr,172.81,1
+adr,178.2,1
+adr,186.25,1
+adr,70.33,1
+adr,298.0,1
+adr,56.4,1
+adr,111.42,1
+adr,75.09,1
+adr,195.6,1
+adr,92.63,1
+adr,111.72,1
+adr,318.5,1
+adr,124.53,1
+adr,276.6,1
+adr,151.7,1
+adr,68.45,1
+adr,103.77,1
+adr,147.5,1
+adr,59.85,1
+adr,118.65,1
+adr,83.09,1
+adr,203.33,1
+adr,130.55,1
+adr,214.86,1
+adr,39.1,1
+adr,53.55,1
+adr,147.6,1
+adr,165.4,1
+adr,68.42,1
+adr,282.5,1
+adr,232.57,1
+adr,109.5,1
+adr,57.47,1
+adr,55.11,1
+adr,85.25,1
+adr,144.45,1
+adr,101.52,1
+adr,107.59,1
+adr,273.13,1
+adr,91.2,1
+adr,115.74,1
+adr,89.5,1
+adr,168.55,1
+adr,142.56,1
+adr,64.75,1
+adr,256.5,1
+adr,206.1,1
+adr,80.76,1
+adr,128.44,1
+adr,118.33,1
+adr,72.76,1
+adr,95.71,1
+adr,118.5,1
+adr,93.55,1
+adr,152.43,1
+adr,126.65,1
+adr,113.67,1
+adr,95.99,1
+adr,372.71,1
+adr,157.1,1
+adr,246.67,1
+adr,77.92,1
+adr,55.2,1
+adr,89.79,1
+adr,86.32,1
+adr,82.17,1
+adr,55.96,1
+adr,140.71,1
+adr,132.77,1
+adr,95.56,1
+adr,133.04,1
+adr,101.66,1
+adr,100.64,1
+adr,175.56,1
+adr,108.07,1
+adr,150.9,1
+adr,52.33,1
+adr,86.2,1
+adr,83.1,1
+adr,70.71,1
+adr,105.61,1
+adr,128.92,1
+adr,31.41,1
+adr,166.58,1
+adr,146.5,1
+adr,71.65,1
+adr,177.45,1
+adr,175.26,1
+adr,157.9,1
+adr,63.92,1
+adr,53.95,1
+adr,70.97,1
+adr,98.98,1
+adr,190.27,1
+adr,87.58,1
+adr,191.5,1
+adr,103.29,1
+adr,144.4,1
+adr,185.75,1
+adr,141.65,1
+adr,72.33,1
+adr,41.96,1
+adr,301.0,1
+adr,37.1,1
+adr,52.5,1
+adr,141.33,1
+adr,135.01,1
+adr,90.46,1
+adr,164.4,1
+adr,251.7,1
+adr,79.22,1
+adr,103.28,1
+adr,197.33,1
+adr,63.58,1
+adr,88.83,1
+adr,110.77,1
+adr,58.1,1
+adr,137.33,1
+adr,69.37,1
+adr,100.47,1
+adr,85.85,1
+adr,51.05,1
+adr,152.28,1
+adr,96.48,1
+adr,131.33,1
+adr,111.33,1
+adr,136.35,1
+adr,176.67,1
+adr,143.41,1
+adr,142.36,1
+adr,91.85,1
+adr,45.1,1
+adr,120.65,1
+adr,227.1,1
+adr,109.73,1
+adr,91.44,1
+adr,189.42,1
+adr,73.07,1
+adr,83.73,1
+adr,154.54,1
+adr,181.5,1
+adr,81.34,1
+adr,68.55,1
+adr,114.19,1
+adr,100.1,1
+adr,185.5,1
+adr,88.12,1
+adr,58.31,1
+adr,35.2,1
+adr,87.5,1
+adr,253.51,1
+adr,222.35,1
+adr,265.44,1
+adr,101.43,1
+adr,84.96,1
+adr,46.08,1
+adr,266.0,1
+adr,156.15,1
+adr,76.29,1
+adr,134.67,1
+adr,19.35,1
+adr,115.33,1
+adr,77.04,1
+adr,121.68,1
+adr,139.17,1
+adr,74.06,1
+adr,100.97,1
+adr,110.2,1
+adr,65.45,1
+adr,248.0,1
+adr,334.43,1
+adr,114.33,1
+adr,117.6,1
+adr,47.67,1
+adr,52.23,1
+adr,152.71,1
+adr,151.19,1
+adr,59.67,1
+adr,143.28,1
+adr,182.33,1
+adr,128.22,1
+adr,133.6,1
+adr,82.29,1
+adr,169.89,1
+adr,260.9,1
+adr,57.76,1
+adr,136.71,1
+adr,201.5,1
+adr,131.15,1
+adr,115.67,1
+adr,71.83,1
+adr,74.45,1
+adr,95.66,1
+adr,158.66,1
+adr,110.67,1
+adr,142.8,1
+adr,201.14,1
+adr,72.36,1
+adr,201.4,1
+adr,87.72,1
+adr,84.45,1
+adr,38.11,1
+adr,74.43,1
+adr,80.4,1
+adr,129.33,1
+adr,140.76,1
+adr,332.0,1
+adr,110.75,1
+adr,121.66,1
+adr,81.25,1
+adr,101.18,1
+adr,65.49,1
+adr,64.64,1
+adr,123.62,1
+adr,150.56,1
+adr,87.34,1
+adr,57.06,1
+adr,73.36,1
+adr,179.86,1
+adr,40.11,1
+adr,110.34,1
+adr,151.67,1
+adr,128.25,1
+adr,253.1,1
+adr,149.14,1
+adr,129.3,1
+adr,85.29,1
+adr,153.38,1
+adr,197.0,1
+adr,69.75,1
+adr,71.36,1
+adr,55.04,1
+adr,113.55,1
+adr,139.33,1
+adr,132.85,1
+adr,83.7,1
+adr,84.7,1
+adr,64.46,1
+adr,63.49,1
+adr,338.0,1
+adr,111.71,1
+adr,70.47,1
+adr,138.7,1
+adr,126.75,1
+adr,161.67,1
+adr,81.47,1
+adr,65.4,1
+adr,91.73,1
+adr,145.53,1
+adr,131.5,1
+adr,212.29,1
+adr,119.64,1
+adr,201.86,1
+adr,112.84,1
+adr,180.67,1
+adr,76.2,1
+adr,55.59,1
+adr,67.25,1
+adr,93.17,1
+adr,94.95,1
+adr,144.97,1
+adr,106.35,1
+adr,89.6,1
+adr,108.53,1
+adr,79.88,1
+adr,127.67,1
+adr,240.3,1
+adr,134.85,1
+adr,104.96,1
+adr,37.71,1
+adr,66.3,1
+adr,59.2,1
+adr,147.56,1
+adr,163.67,1
+adr,113.04,1
+adr,87.2,1
+adr,47.9,1
+adr,64.25,1
+adr,146.37,1
+adr,168.63,1
+adr,365.0,1
+adr,116.8,1
+adr,46.17,1
+adr,56.83,1
+adr,267.0,1
+adr,49.78,1
+adr,153.68,1
+adr,83.2,1
+adr,61.93,1
+adr,157.7,1
+adr,284.86,1
+adr,84.85,1
+adr,102.5,1
+adr,95.76,1
+adr,54.32,1
+adr,161.33,1
+adr,217.71,1
+adr,179.91,1
+adr,50.66,1
+adr,61.75,1
+adr,79.11,1
+adr,68.88,1
+adr,82.12,1
+adr,121.72,1
+adr,159.74,1
+adr,51.94,1
+adr,80.7,1
+adr,53.01,1
+adr,237.48,1
+adr,81.02,1
+adr,41.58,1
+adr,183.9,1
+adr,89.93,1
+adr,112.01,1
+adr,171.13,1
+adr,62.4,1
+adr,167.25,1
+adr,167.13,1
+adr,133.58,1
+adr,115.61,1
+adr,130.8,1
+adr,164.44,1
+adr,74.38,1
+adr,59.37,1
+adr,65.29,1
+adr,201.43,1
+adr,123.1,1
+adr,58.32,1
+adr,114.69,1
+adr,188.71,1
+adr,217.08,1
+adr,118.2,1
+adr,158.3,1
+adr,131.2,1
+adr,97.33,1
+adr,212.5,1
+adr,296.0,1
+adr,223.07,1
+adr,84.12,1
+adr,101.27,1
+adr,143.55,1
+adr,83.96,1
+adr,51.59,1
+adr,95.46,1
+adr,235.45,1
+adr,113.33,1
+adr,27.9,1
+adr,74.57,1
+adr,115.25,1
+adr,99.21,1
+adr,70.38,1
+adr,198.5,1
+adr,121.47,1
+adr,154.29,1
+adr,208.9,1
+adr,79.85,1
+adr,54.75,1
+adr,281.0,1
+adr,108.5,1
+adr,122.45,1
+adr,110.59,1
+adr,109.4,1
+adr,165.6,1
+adr,88.86,1
+adr,101.03,1
+adr,93.16,1
+adr,95.38,1
+adr,67.24,1
+adr,59.4,1
+adr,116.6,1
+adr,99.43,1
+adr,204.5,1
+adr,163.33,1
+adr,183.6,1
+adr,36.86,1
+adr,110.31,1
+adr,65.19,1
+adr,332.57,1
+adr,195.5,1
+adr,39.93,1
+adr,197.82,1
+adr,143.6,1
+adr,85.4,1
+adr,30.5,1
+adr,100.58,1
+adr,66.13,1
+adr,146.95,1
+adr,107.67,1
+adr,59.32,1
+adr,27.6,1
+adr,161.86,1
+adr,245.67,1
+adr,116.15,1
+adr,107.92,1
+adr,203.0,1
+adr,103.85,1
+adr,58.2,1
+adr,86.7,1
+adr,74.67,1
+adr,36.55,1
+adr,233.6,1
+adr,196.5,1
+adr,70.2,1
+adr,113.14,1
+adr,158.2,1
+adr,152.7,1
+adr,110.84,1
+adr,222.3,1
+adr,37.01,1
+adr,96.05,1
+adr,94.37,1
+adr,164.13,1
+adr,67.6,1
+adr,63.36,1
+adr,146.38,1
+adr,195.33,1
+adr,78.53,1
+adr,246.55,1
+adr,160.98,1
+adr,121.75,1
+adr,189.33,1
+adr,99.1,1
+adr,84.5,1
+adr,249.63,1
+adr,104.2,1
+adr,136.43,1
+adr,110.6,1
+adr,183.15,1
+adr,81.88,1
+adr,145.24,1
+adr,144.38,1
+adr,129.5,1
+adr,67.85,1
+adr,111.5,1
+adr,63.42,1
+adr,229.33,1
+adr,50.15,1
+adr,148.3,1
+adr,101.25,1
+adr,46.22,1
+adr,129.96,1
+adr,308.4,1
+adr,167.14,1
+adr,26.26,1
+adr,78.4,1
+adr,129.88,1
+adr,108.04,1
+adr,135.58,1
+adr,140.8,1
+adr,68.47,1
+adr,94.86,1
+adr,287.5,1
+adr,148.1,1
+adr,97.7,1
+adr,87.04,1
+adr,60.8,1
+adr,112.45,1
+adr,122.86,1
+adr,167.45,1
+adr,76.83,1
+adr,79.48,1
+adr,94.88,1
+adr,114.04,1
+adr,81.62,1
+adr,117.74,1
+adr,154.4,1
+adr,71.6,1
+adr,127.45,1
+adr,162.15,1
+adr,119.28,1
+adr,52.55,1
+adr,289.8,1
+adr,189.5,1
+adr,112.42,1
+adr,96.53,1
+adr,113.3,1
+adr,106.14,1
+adr,144.5,1
+adr,62.1,1
+adr,139.95,1
+adr,110.33,1
+adr,38.92,1
+adr,66.28,1
+adr,253.33,1
+adr,107.29,1
+adr,83.58,1
+adr,81.3,1
+adr,74.53,1
+adr,34.82,1
+adr,142.26,1
+adr,31.21,1
+adr,78.33,1
+adr,73.75,1
+adr,190.6,1
+adr,137.85,1
+adr,133.76,1
+adr,108.34,1
+adr,50.2,1
+adr,113.48,1
+adr,328.0,1
+adr,140.7,1
+adr,170.9,1
+adr,251.0,1
+adr,76.19,1
+adr,92.95,1
+adr,28.8,1
+adr,93.22,1
+adr,152.33,1
+adr,66.18,1
+adr,74.6,1
+adr,90.2,1
+adr,63.03,1
+adr,77.83,1
+adr,124.67,1
+adr,100.05,1
+adr,154.16,1
+adr,265.83,1
+adr,82.08,1
+adr,147.86,1
+adr,186.3,1
+adr,191.57,1
+required_car_parking_spaces,0,9147
+required_car_parking_spaces,1,618
+required_car_parking_spaces,2,1
+total_of_special_requests,0,5758
+total_of_special_requests,1,2721
+total_of_special_requests,2,1032
+total_of_special_requests,3,216
+total_of_special_requests,4,36
+total_of_special_requests,5,3
+reservation_status,1,6193
+reservation_status,0,3477
+reservation_status,2,96
+reservation_status_date,2015-10-21 00:00:00,117
+reservation_status_date,2015-07-06 00:00:00,75
+reservation_status_date,2016-11-25 00:00:00,73
+reservation_status_date,2015-01-01 00:00:00,56
+reservation_status_date,2016-01-18 00:00:00,47
+reservation_status_date,2016-12-07 00:00:00,38
+reservation_status_date,2015-12-18 00:00:00,35
+reservation_status_date,2015-07-02 00:00:00,34
+reservation_status_date,2016-02-09 00:00:00,33
+reservation_status_date,2016-03-15 00:00:00,32
+reservation_status_date,2016-04-04 00:00:00,31
+reservation_status_date,2017-01-24 00:00:00,30
+reservation_status_date,2016-01-19 00:00:00,29
+reservation_status_date,2016-12-13 00:00:00,28
+reservation_status_date,2017-01-19 00:00:00,28
+reservation_status_date,2015-12-08 00:00:00,28
+reservation_status_date,2017-02-24 00:00:00,27
+reservation_status_date,2016-11-21 00:00:00,26
+reservation_status_date,2016-11-06 00:00:00,25
+reservation_status_date,2016-02-14 00:00:00,25
+reservation_status_date,2017-02-28 00:00:00,25
+reservation_status_date,2016-03-21 00:00:00,25
+reservation_status_date,2016-05-29 00:00:00,25
+reservation_status_date,2017-01-18 00:00:00,24
+reservation_status_date,2016-03-27 00:00:00,24
+reservation_status_date,2016-10-21 00:00:00,24
+reservation_status_date,2016-09-20 00:00:00,24
+reservation_status_date,2016-06-26 00:00:00,24
+reservation_status_date,2017-02-02 00:00:00,24
+reservation_status_date,2017-04-21 00:00:00,23
+reservation_status_date,2016-10-13 00:00:00,23
+reservation_status_date,2016-03-14 00:00:00,23
+reservation_status_date,2016-06-02 00:00:00,23
+reservation_status_date,2015-10-28 00:00:00,23
+reservation_status_date,2015-10-19 00:00:00,23
+reservation_status_date,2017-01-20 00:00:00,22
+reservation_status_date,2016-12-11 00:00:00,22
+reservation_status_date,2016-04-03 00:00:00,22
+reservation_status_date,2015-11-17 00:00:00,22
+reservation_status_date,2016-09-25 00:00:00,22
+reservation_status_date,2017-01-02 00:00:00,22
+reservation_status_date,2016-04-27 00:00:00,22
+reservation_status_date,2017-05-05 00:00:00,22
+reservation_status_date,2017-04-23 00:00:00,21
+reservation_status_date,2017-02-09 00:00:00,21
+reservation_status_date,2016-10-14 00:00:00,21
+reservation_status_date,2017-03-01 00:00:00,21
+reservation_status_date,2017-06-06 00:00:00,21
+reservation_status_date,2016-02-10 00:00:00,21
+reservation_status_date,2015-08-21 00:00:00,21
+reservation_status_date,2015-11-16 00:00:00,21
+reservation_status_date,2016-06-20 00:00:00,21
+reservation_status_date,2016-07-13 00:00:00,21
+reservation_status_date,2017-01-10 00:00:00,20
+reservation_status_date,2017-05-11 00:00:00,20
+reservation_status_date,2016-08-08 00:00:00,20
+reservation_status_date,2016-03-31 00:00:00,20
+reservation_status_date,2017-02-13 00:00:00,20
+reservation_status_date,2016-11-10 00:00:00,20
+reservation_status_date,2017-02-15 00:00:00,20
+reservation_status_date,2016-10-07 00:00:00,20
+reservation_status_date,2017-02-17 00:00:00,20
+reservation_status_date,2016-01-22 00:00:00,20
+reservation_status_date,2016-05-12 00:00:00,20
+reservation_status_date,2017-05-25 00:00:00,20
+reservation_status_date,2017-03-09 00:00:00,19
+reservation_status_date,2017-01-06 00:00:00,19
+reservation_status_date,2016-07-21 00:00:00,19
+reservation_status_date,2016-02-23 00:00:00,19
+reservation_status_date,2015-09-17 00:00:00,19
+reservation_status_date,2016-05-22 00:00:00,19
+reservation_status_date,2016-08-18 00:00:00,19
+reservation_status_date,2017-02-06 00:00:00,19
+reservation_status_date,2016-04-17 00:00:00,19
+reservation_status_date,2016-09-16 00:00:00,19
+reservation_status_date,2015-09-24 00:00:00,19
+reservation_status_date,2016-05-16 00:00:00,19
+reservation_status_date,2016-07-24 00:00:00,19
+reservation_status_date,2016-11-24 00:00:00,19
+reservation_status_date,2016-05-06 00:00:00,19
+reservation_status_date,2014-10-17 00:00:00,19
+reservation_status_date,2017-04-10 00:00:00,19
+reservation_status_date,2016-03-18 00:00:00,19
+reservation_status_date,2017-03-12 00:00:00,19
+reservation_status_date,2017-04-25 00:00:00,18
+reservation_status_date,2017-01-11 00:00:00,18
+reservation_status_date,2016-09-30 00:00:00,18
+reservation_status_date,2016-10-17 00:00:00,18
+reservation_status_date,2016-04-06 00:00:00,18
+reservation_status_date,2016-09-26 00:00:00,18
+reservation_status_date,2017-03-02 00:00:00,18
+reservation_status_date,2016-04-13 00:00:00,18
+reservation_status_date,2016-05-20 00:00:00,18
+reservation_status_date,2017-02-23 00:00:00,18
+reservation_status_date,2016-12-21 00:00:00,18
+reservation_status_date,2016-02-27 00:00:00,18
+reservation_status_date,2017-05-03 00:00:00,18
+reservation_status_date,2017-07-06 00:00:00,18
+reservation_status_date,2015-10-12 00:00:00,18
+reservation_status_date,2017-07-04 00:00:00,18
+reservation_status_date,2017-02-12 00:00:00,18
+reservation_status_date,2016-03-22 00:00:00,18
+reservation_status_date,2016-08-01 00:00:00,18
+reservation_status_date,2017-03-06 00:00:00,18
+reservation_status_date,2016-05-10 00:00:00,18
+reservation_status_date,2017-01-12 00:00:00,18
+reservation_status_date,2016-06-13 00:00:00,18
+reservation_status_date,2017-05-28 00:00:00,18
+reservation_status_date,2016-01-08 00:00:00,18
+reservation_status_date,2016-09-13 00:00:00,18
+reservation_status_date,2016-04-28 00:00:00,18
+reservation_status_date,2017-04-19 00:00:00,17
+reservation_status_date,2016-09-19 00:00:00,17
+reservation_status_date,2017-04-09 00:00:00,17
+reservation_status_date,2017-02-16 00:00:00,17
+reservation_status_date,2017-05-23 00:00:00,17
+reservation_status_date,2017-05-02 00:00:00,17
+reservation_status_date,2016-02-03 00:00:00,17
+reservation_status_date,2016-02-29 00:00:00,17
+reservation_status_date,2016-10-30 00:00:00,17
+reservation_status_date,2016-09-06 00:00:00,17
+reservation_status_date,2016-02-28 00:00:00,17
+reservation_status_date,2016-01-02 00:00:00,17
+reservation_status_date,2017-01-26 00:00:00,17
+reservation_status_date,2017-02-21 00:00:00,17
+reservation_status_date,2017-05-14 00:00:00,17
+reservation_status_date,2017-04-17 00:00:00,17
+reservation_status_date,2017-02-05 00:00:00,17
+reservation_status_date,2016-03-06 00:00:00,17
+reservation_status_date,2016-12-12 00:00:00,17
+reservation_status_date,2016-12-04 00:00:00,17
+reservation_status_date,2017-04-15 00:00:00,17
+reservation_status_date,2016-11-12 00:00:00,17
+reservation_status_date,2017-01-15 00:00:00,17
+reservation_status_date,2017-03-26 00:00:00,17
+reservation_status_date,2017-08-24 00:00:00,17
+reservation_status_date,2017-04-05 00:00:00,17
+reservation_status_date,2016-12-09 00:00:00,17
+reservation_status_date,2016-10-16 00:00:00,17
+reservation_status_date,2016-09-22 00:00:00,17
+reservation_status_date,2016-05-26 00:00:00,17
+reservation_status_date,2017-07-18 00:00:00,17
+reservation_status_date,2017-02-26 00:00:00,17
+reservation_status_date,2016-01-03 00:00:00,17
+reservation_status_date,2016-04-25 00:00:00,17
+reservation_status_date,2015-10-09 00:00:00,17
+reservation_status_date,2017-06-11 00:00:00,16
+reservation_status_date,2016-02-05 00:00:00,16
+reservation_status_date,2016-08-17 00:00:00,16
+reservation_status_date,2016-10-12 00:00:00,16
+reservation_status_date,2016-11-23 00:00:00,16
+reservation_status_date,2015-10-01 00:00:00,16
+reservation_status_date,2017-06-25 00:00:00,16
+reservation_status_date,2017-05-10 00:00:00,16
+reservation_status_date,2017-07-10 00:00:00,16
+reservation_status_date,2016-02-26 00:00:00,16
+reservation_status_date,2015-10-10 00:00:00,16
+reservation_status_date,2016-03-09 00:00:00,16
+reservation_status_date,2017-05-29 00:00:00,16
+reservation_status_date,2017-02-03 00:00:00,16
+reservation_status_date,2015-09-09 00:00:00,16
+reservation_status_date,2017-03-08 00:00:00,16
+reservation_status_date,2016-05-03 00:00:00,16
+reservation_status_date,2016-10-06 00:00:00,16
+reservation_status_date,2016-05-23 00:00:00,16
+reservation_status_date,2016-03-28 00:00:00,16
+reservation_status_date,2016-09-02 00:00:00,16
+reservation_status_date,2016-05-04 00:00:00,16
+reservation_status_date,2016-07-30 00:00:00,16
+reservation_status_date,2016-10-02 00:00:00,16
+reservation_status_date,2016-11-14 00:00:00,16
+reservation_status_date,2017-02-20 00:00:00,16
+reservation_status_date,2016-09-23 00:00:00,16
+reservation_status_date,2016-02-22 00:00:00,16
+reservation_status_date,2016-05-02 00:00:00,16
+reservation_status_date,2017-05-15 00:00:00,16
+reservation_status_date,2016-01-05 00:00:00,16
+reservation_status_date,2016-10-10 00:00:00,16
+reservation_status_date,2015-08-17 00:00:00,15
+reservation_status_date,2015-08-11 00:00:00,15
+reservation_status_date,2016-04-15 00:00:00,15
+reservation_status_date,2017-07-11 00:00:00,15
+reservation_status_date,2016-04-07 00:00:00,15
+reservation_status_date,2016-04-16 00:00:00,15
+reservation_status_date,2016-10-29 00:00:00,15
+reservation_status_date,2016-01-01 00:00:00,15
+reservation_status_date,2016-02-25 00:00:00,15
+reservation_status_date,2017-08-13 00:00:00,15
+reservation_status_date,2016-10-23 00:00:00,15
+reservation_status_date,2015-09-28 00:00:00,15
+reservation_status_date,2016-03-07 00:00:00,15
+reservation_status_date,2017-05-07 00:00:00,15
+reservation_status_date,2016-08-11 00:00:00,15
+reservation_status_date,2017-04-11 00:00:00,15
+reservation_status_date,2017-03-27 00:00:00,15
+reservation_status_date,2016-05-19 00:00:00,15
+reservation_status_date,2016-10-09 00:00:00,15
+reservation_status_date,2016-08-15 00:00:00,15
+reservation_status_date,2017-03-23 00:00:00,15
+reservation_status_date,2016-05-25 00:00:00,15
+reservation_status_date,2016-09-29 00:00:00,15
+reservation_status_date,2017-07-15 00:00:00,15
+reservation_status_date,2016-09-05 00:00:00,15
+reservation_status_date,2016-12-27 00:00:00,15
+reservation_status_date,2015-08-16 00:00:00,15
+reservation_status_date,2016-01-06 00:00:00,15
+reservation_status_date,2015-10-18 00:00:00,15
+reservation_status_date,2017-01-23 00:00:00,15
+reservation_status_date,2017-04-02 00:00:00,15
+reservation_status_date,2016-08-06 00:00:00,15
+reservation_status_date,2016-09-21 00:00:00,15
+reservation_status_date,2017-08-17 00:00:00,15
+reservation_status_date,2017-05-08 00:00:00,15
+reservation_status_date,2016-02-15 00:00:00,15
+reservation_status_date,2015-10-07 00:00:00,15
+reservation_status_date,2016-10-03 00:00:00,15
+reservation_status_date,2015-10-13 00:00:00,15
+reservation_status_date,2016-04-29 00:00:00,15
+reservation_status_date,2016-10-20 00:00:00,15
+reservation_status_date,2016-07-05 00:00:00,14
+reservation_status_date,2015-09-08 00:00:00,14
+reservation_status_date,2016-07-20 00:00:00,14
+reservation_status_date,2016-05-17 00:00:00,14
+reservation_status_date,2017-07-29 00:00:00,14
+reservation_status_date,2016-04-18 00:00:00,14
+reservation_status_date,2015-10-31 00:00:00,14
+reservation_status_date,2016-08-29 00:00:00,14
+reservation_status_date,2017-04-01 00:00:00,14
+reservation_status_date,2016-11-13 00:00:00,14
+reservation_status_date,2016-11-27 00:00:00,14
+reservation_status_date,2016-02-24 00:00:00,14
+reservation_status_date,2017-05-09 00:00:00,14
+reservation_status_date,2015-09-16 00:00:00,14
+reservation_status_date,2016-03-12 00:00:00,14
+reservation_status_date,2017-06-05 00:00:00,14
+reservation_status_date,2016-12-29 00:00:00,14
+reservation_status_date,2017-02-10 00:00:00,14
+reservation_status_date,2015-09-15 00:00:00,14
+reservation_status_date,2016-11-07 00:00:00,14
+reservation_status_date,2015-07-23 00:00:00,14
+reservation_status_date,2016-06-17 00:00:00,14
+reservation_status_date,2016-03-17 00:00:00,14
+reservation_status_date,2016-07-08 00:00:00,14
+reservation_status_date,2016-08-22 00:00:00,14
+reservation_status_date,2016-04-11 00:00:00,14
+reservation_status_date,2016-06-15 00:00:00,14
+reservation_status_date,2017-04-06 00:00:00,14
+reservation_status_date,2017-03-20 00:00:00,14
+reservation_status_date,2016-09-10 00:00:00,14
+reservation_status_date,2017-03-24 00:00:00,14
+reservation_status_date,2016-08-14 00:00:00,14
+reservation_status_date,2016-06-28 00:00:00,14
+reservation_status_date,2016-08-19 00:00:00,14
+reservation_status_date,2017-03-16 00:00:00,14
+reservation_status_date,2016-08-31 00:00:00,14
+reservation_status_date,2016-10-28 00:00:00,14
+reservation_status_date,2016-03-04 00:00:00,14
+reservation_status_date,2017-06-09 00:00:00,14
+reservation_status_date,2016-08-28 00:00:00,14
+reservation_status_date,2016-05-30 00:00:00,14
+reservation_status_date,2017-08-23 00:00:00,14
+reservation_status_date,2017-04-28 00:00:00,14
+reservation_status_date,2016-08-09 00:00:00,14
+reservation_status_date,2016-10-27 00:00:00,14
+reservation_status_date,2017-01-03 00:00:00,14
+reservation_status_date,2015-11-11 00:00:00,14
+reservation_status_date,2016-07-29 00:00:00,14
+reservation_status_date,2016-11-28 00:00:00,14
+reservation_status_date,2015-09-11 00:00:00,13
+reservation_status_date,2016-06-06 00:00:00,13
+reservation_status_date,2016-11-04 00:00:00,13
+reservation_status_date,2016-11-30 00:00:00,13
+reservation_status_date,2017-03-13 00:00:00,13
+reservation_status_date,2016-03-01 00:00:00,13
+reservation_status_date,2016-11-05 00:00:00,13
+reservation_status_date,2016-06-27 00:00:00,13
+reservation_status_date,2016-01-21 00:00:00,13
+reservation_status_date,2017-01-27 00:00:00,13
+reservation_status_date,2015-09-30 00:00:00,13
+reservation_status_date,2016-06-24 00:00:00,13
+reservation_status_date,2016-07-11 00:00:00,13
+reservation_status_date,2017-06-27 00:00:00,13
+reservation_status_date,2017-01-25 00:00:00,13
+reservation_status_date,2016-02-01 00:00:00,13
+reservation_status_date,2017-05-21 00:00:00,13
+reservation_status_date,2015-09-19 00:00:00,13
+reservation_status_date,2016-06-12 00:00:00,13
+reservation_status_date,2015-09-13 00:00:00,13
+reservation_status_date,2017-04-20 00:00:00,13
+reservation_status_date,2015-10-22 00:00:00,13
+reservation_status_date,2017-04-12 00:00:00,13
+reservation_status_date,2015-12-02 00:00:00,13
+reservation_status_date,2016-05-09 00:00:00,13
+reservation_status_date,2016-08-24 00:00:00,13
+reservation_status_date,2016-09-08 00:00:00,13
+reservation_status_date,2015-12-29 00:00:00,13
+reservation_status_date,2015-10-11 00:00:00,13
+reservation_status_date,2016-07-18 00:00:00,13
+reservation_status_date,2017-04-29 00:00:00,13
+reservation_status_date,2017-04-07 00:00:00,13
+reservation_status_date,2016-03-16 00:00:00,13
+reservation_status_date,2016-05-15 00:00:00,13
+reservation_status_date,2016-03-11 00:00:00,13
+reservation_status_date,2017-03-14 00:00:00,13
+reservation_status_date,2016-03-30 00:00:00,13
+reservation_status_date,2017-08-28 00:00:00,13
+reservation_status_date,2016-05-05 00:00:00,13
+reservation_status_date,2017-05-26 00:00:00,13
+reservation_status_date,2016-05-08 00:00:00,13
+reservation_status_date,2017-01-31 00:00:00,13
+reservation_status_date,2017-06-10 00:00:00,13
+reservation_status_date,2017-07-03 00:00:00,13
+reservation_status_date,2016-03-02 00:00:00,13
+reservation_status_date,2015-09-21 00:00:00,13
+reservation_status_date,2017-03-19 00:00:00,13
+reservation_status_date,2015-10-14 00:00:00,13
+reservation_status_date,2016-08-10 00:00:00,13
+reservation_status_date,2017-01-04 00:00:00,13
+reservation_status_date,2017-03-31 00:00:00,13
+reservation_status_date,2016-07-12 00:00:00,13
+reservation_status_date,2017-03-07 00:00:00,13
+reservation_status_date,2016-06-30 00:00:00,13
+reservation_status_date,2016-09-18 00:00:00,13
+reservation_status_date,2015-12-23 00:00:00,13
+reservation_status_date,2017-04-16 00:00:00,13
+reservation_status_date,2017-05-01 00:00:00,13
+reservation_status_date,2016-03-10 00:00:00,13
+reservation_status_date,2017-07-19 00:00:00,13
+reservation_status_date,2015-11-27 00:00:00,13
+reservation_status_date,2016-07-09 00:00:00,13
+reservation_status_date,2017-04-27 00:00:00,13
+reservation_status_date,2016-06-10 00:00:00,13
+reservation_status_date,2015-09-14 00:00:00,13
+reservation_status_date,2017-06-28 00:00:00,13
+reservation_status_date,2015-11-22 00:00:00,13
+reservation_status_date,2016-03-20 00:00:00,12
+reservation_status_date,2017-07-21 00:00:00,12
+reservation_status_date,2015-09-18 00:00:00,12
+reservation_status_date,2016-08-03 00:00:00,12
+reservation_status_date,2017-06-22 00:00:00,12
+reservation_status_date,2015-01-21 00:00:00,12
+reservation_status_date,2017-08-27 00:00:00,12
+reservation_status_date,2015-09-22 00:00:00,12
+reservation_status_date,2016-12-28 00:00:00,12
+reservation_status_date,2017-06-15 00:00:00,12
+reservation_status_date,2017-08-03 00:00:00,12
+reservation_status_date,2016-11-16 00:00:00,12
+reservation_status_date,2016-03-29 00:00:00,12
+reservation_status_date,2017-07-16 00:00:00,12
+reservation_status_date,2015-10-05 00:00:00,12
+reservation_status_date,2017-03-28 00:00:00,12
+reservation_status_date,2017-05-04 00:00:00,12
+reservation_status_date,2016-07-14 00:00:00,12
+reservation_status_date,2017-03-21 00:00:00,12
+reservation_status_date,2016-06-08 00:00:00,12
+reservation_status_date,2016-07-01 00:00:00,12
+reservation_status_date,2016-11-01 00:00:00,12
+reservation_status_date,2017-04-04 00:00:00,12
+reservation_status_date,2015-08-19 00:00:00,12
+reservation_status_date,2015-10-23 00:00:00,12
+reservation_status_date,2015-11-15 00:00:00,12
+reservation_status_date,2017-04-22 00:00:00,12
+reservation_status_date,2016-06-23 00:00:00,12
+reservation_status_date,2016-07-22 00:00:00,12
+reservation_status_date,2017-02-14 00:00:00,12
+reservation_status_date,2016-01-17 00:00:00,12
+reservation_status_date,2017-01-09 00:00:00,12
+reservation_status_date,2016-11-19 00:00:00,12
+reservation_status_date,2016-11-20 00:00:00,12
+reservation_status_date,2017-07-02 00:00:00,12
+reservation_status_date,2016-10-04 00:00:00,12
+reservation_status_date,2016-11-02 00:00:00,12
+reservation_status_date,2017-07-12 00:00:00,12
+reservation_status_date,2017-07-13 00:00:00,12
+reservation_status_date,2016-04-09 00:00:00,12
+reservation_status_date,2016-07-28 00:00:00,12
+reservation_status_date,2017-08-04 00:00:00,12
+reservation_status_date,2016-11-18 00:00:00,12
+reservation_status_date,2015-10-03 00:00:00,12
+reservation_status_date,2016-07-17 00:00:00,12
+reservation_status_date,2016-03-24 00:00:00,12
+reservation_status_date,2016-04-05 00:00:00,12
+reservation_status_date,2017-06-23 00:00:00,12
+reservation_status_date,2017-07-30 00:00:00,12
+reservation_status_date,2016-03-08 00:00:00,12
+reservation_status_date,2016-09-14 00:00:00,11
+reservation_status_date,2016-09-15 00:00:00,11
+reservation_status_date,2016-04-30 00:00:00,11
+reservation_status_date,2016-06-21 00:00:00,11
+reservation_status_date,2016-07-25 00:00:00,11
+reservation_status_date,2016-06-29 00:00:00,11
+reservation_status_date,2017-08-20 00:00:00,11
+reservation_status_date,2017-02-01 00:00:00,11
+reservation_status_date,2016-04-24 00:00:00,11
+reservation_status_date,2016-04-26 00:00:00,11
+reservation_status_date,2017-01-30 00:00:00,11
+reservation_status_date,2017-06-18 00:00:00,11
+reservation_status_date,2016-08-16 00:00:00,11
+reservation_status_date,2016-09-27 00:00:00,11
+reservation_status_date,2017-04-08 00:00:00,11
+reservation_status_date,2017-06-30 00:00:00,11
+reservation_status_date,2015-07-03 00:00:00,11
+reservation_status_date,2016-09-12 00:00:00,11
+reservation_status_date,2016-03-26 00:00:00,11
+reservation_status_date,2015-12-09 00:00:00,11
+reservation_status_date,2017-07-26 00:00:00,11
+reservation_status_date,2016-06-07 00:00:00,11
+reservation_status_date,2017-01-21 00:00:00,11
+reservation_status_date,2017-03-29 00:00:00,11
+reservation_status_date,2015-11-14 00:00:00,11
+reservation_status_date,2015-07-24 00:00:00,11
+reservation_status_date,2016-04-08 00:00:00,11
+reservation_status_date,2016-10-05 00:00:00,11
+reservation_status_date,2016-12-08 00:00:00,11
+reservation_status_date,2017-05-18 00:00:00,11
+reservation_status_date,2017-07-08 00:00:00,11
+reservation_status_date,2016-04-12 00:00:00,11
+reservation_status_date,2016-07-19 00:00:00,11
+reservation_status_date,2016-02-18 00:00:00,11
+reservation_status_date,2017-08-12 00:00:00,11
+reservation_status_date,2016-04-20 00:00:00,11
+reservation_status_date,2016-09-01 00:00:00,11
+reservation_status_date,2016-11-11 00:00:00,11
+reservation_status_date,2017-03-17 00:00:00,11
+reservation_status_date,2017-02-04 00:00:00,11
+reservation_status_date,2016-06-03 00:00:00,11
+reservation_status_date,2016-03-05 00:00:00,11
+reservation_status_date,2015-08-28 00:00:00,11
+reservation_status_date,2017-05-24 00:00:00,11
+reservation_status_date,2016-03-23 00:00:00,11
+reservation_status_date,2015-11-26 00:00:00,11
+reservation_status_date,2017-01-05 00:00:00,11
+reservation_status_date,2017-07-23 00:00:00,11
+reservation_status_date,2017-07-14 00:00:00,11
+reservation_status_date,2015-09-04 00:00:00,11
+reservation_status_date,2017-05-17 00:00:00,11
+reservation_status_date,2015-11-30 00:00:00,10
+reservation_status_date,2017-02-25 00:00:00,10
+reservation_status_date,2017-06-17 00:00:00,10
+reservation_status_date,2016-08-13 00:00:00,10
+reservation_status_date,2016-10-22 00:00:00,10
+reservation_status_date,2016-09-28 00:00:00,10
+reservation_status_date,2017-05-13 00:00:00,10
+reservation_status_date,2015-11-09 00:00:00,10
+reservation_status_date,2016-02-19 00:00:00,10
+reservation_status_date,2015-10-16 00:00:00,10
+reservation_status_date,2016-05-21 00:00:00,10
+reservation_status_date,2016-05-13 00:00:00,10
+reservation_status_date,2016-12-10 00:00:00,10
+reservation_status_date,2017-04-03 00:00:00,10
+reservation_status_date,2016-12-02 00:00:00,10
+reservation_status_date,2016-05-14 00:00:00,10
+reservation_status_date,2017-03-15 00:00:00,10
+reservation_status_date,2015-07-31 00:00:00,10
+reservation_status_date,2016-02-07 00:00:00,10
+reservation_status_date,2017-05-31 00:00:00,10
+reservation_status_date,2015-08-13 00:00:00,10
+reservation_status_date,2016-08-20 00:00:00,10
+reservation_status_date,2016-04-22 00:00:00,10
+reservation_status_date,2016-11-15 00:00:00,10
+reservation_status_date,2016-11-22 00:00:00,10
+reservation_status_date,2016-06-05 00:00:00,10
+reservation_status_date,2017-08-10 00:00:00,10
+reservation_status_date,2016-04-10 00:00:00,10
+reservation_status_date,2016-09-07 00:00:00,10
+reservation_status_date,2017-02-08 00:00:00,10
+reservation_status_date,2017-02-18 00:00:00,10
+reservation_status_date,2017-08-29 00:00:00,10
+reservation_status_date,2016-04-21 00:00:00,10
+reservation_status_date,2016-07-26 00:00:00,10
+reservation_status_date,2017-06-03 00:00:00,10
+reservation_status_date,2016-05-31 00:00:00,10
+reservation_status_date,2016-08-12 00:00:00,10
+reservation_status_date,2017-03-18 00:00:00,10
+reservation_status_date,2016-08-26 00:00:00,10
+reservation_status_date,2015-10-30 00:00:00,10
+reservation_status_date,2017-07-09 00:00:00,10
+reservation_status_date,2015-12-10 00:00:00,10
+reservation_status_date,2016-06-14 00:00:00,10
+reservation_status_date,2016-09-11 00:00:00,10
+reservation_status_date,2015-07-09 00:00:00,10
+reservation_status_date,2016-12-03 00:00:00,10
+reservation_status_date,2017-04-14 00:00:00,10
+reservation_status_date,2016-03-13 00:00:00,10
+reservation_status_date,2016-02-17 00:00:00,10
+reservation_status_date,2017-06-12 00:00:00,10
+reservation_status_date,2017-06-20 00:00:00,10
+reservation_status_date,2016-10-19 00:00:00,10
+reservation_status_date,2017-06-04 00:00:00,10
+reservation_status_date,2017-08-09 00:00:00,10
+reservation_status_date,2015-07-30 00:00:00,10
+reservation_status_date,2016-08-25 00:00:00,10
+reservation_status_date,2017-06-08 00:00:00,10
+reservation_status_date,2016-01-28 00:00:00,10
+reservation_status_date,2016-10-31 00:00:00,10
+reservation_status_date,2017-03-11 00:00:00,9
+reservation_status_date,2016-07-02 00:00:00,9
+reservation_status_date,2015-09-12 00:00:00,9
+reservation_status_date,2015-08-10 00:00:00,9
+reservation_status_date,2017-02-19 00:00:00,9
+reservation_status_date,2016-10-26 00:00:00,9
+reservation_status_date,2016-01-16 00:00:00,9
+reservation_status_date,2015-12-30 00:00:00,9
+reservation_status_date,2016-10-25 00:00:00,9
+reservation_status_date,2017-03-10 00:00:00,9
+reservation_status_date,2017-04-18 00:00:00,9
+reservation_status_date,2016-01-11 00:00:00,9
+reservation_status_date,2017-08-14 00:00:00,9
+reservation_status_date,2017-06-24 00:00:00,9
+reservation_status_date,2016-04-23 00:00:00,9
+reservation_status_date,2015-09-25 00:00:00,9
+reservation_status_date,2016-01-27 00:00:00,9
+reservation_status_date,2017-08-18 00:00:00,9
+reservation_status_date,2016-12-22 00:00:00,9
+reservation_status_date,2017-05-22 00:00:00,9
+reservation_status_date,2017-07-22 00:00:00,9
+reservation_status_date,2016-04-19 00:00:00,9
+reservation_status_date,2016-10-11 00:00:00,9
+reservation_status_date,2017-07-05 00:00:00,9
+reservation_status_date,2015-12-28 00:00:00,9
+reservation_status_date,2017-08-16 00:00:00,9
+reservation_status_date,2015-12-31 00:00:00,9
+reservation_status_date,2016-06-22 00:00:00,9
+reservation_status_date,2016-05-27 00:00:00,9
+reservation_status_date,2016-12-06 00:00:00,9
+reservation_status_date,2015-10-04 00:00:00,9
+reservation_status_date,2016-10-24 00:00:00,9
+reservation_status_date,2017-01-14 00:00:00,9
+reservation_status_date,2015-08-31 00:00:00,9
+reservation_status_date,2016-12-05 00:00:00,9
+reservation_status_date,2017-06-21 00:00:00,9
+reservation_status_date,2017-09-01 00:00:00,9
+reservation_status_date,2017-08-05 00:00:00,9
+reservation_status_date,2016-12-23 00:00:00,9
+reservation_status_date,2015-08-14 00:00:00,9
+reservation_status_date,2017-01-29 00:00:00,9
+reservation_status_date,2015-10-02 00:00:00,9
+reservation_status_date,2016-11-17 00:00:00,9
+reservation_status_date,2016-08-21 00:00:00,9
+reservation_status_date,2015-12-22 00:00:00,9
+reservation_status_date,2015-11-21 00:00:00,9
+reservation_status_date,2015-08-29 00:00:00,9
+reservation_status_date,2017-06-02 00:00:00,9
+reservation_status_date,2016-01-20 00:00:00,9
+reservation_status_date,2016-08-07 00:00:00,9
+reservation_status_date,2015-11-06 00:00:00,9
+reservation_status_date,2016-12-18 00:00:00,9
+reservation_status_date,2015-09-23 00:00:00,9
+reservation_status_date,2017-01-01 00:00:00,9
+reservation_status_date,2016-04-14 00:00:00,9
+reservation_status_date,2015-09-05 00:00:00,9
+reservation_status_date,2015-01-30 00:00:00,9
+reservation_status_date,2015-08-04 00:00:00,9
+reservation_status_date,2015-09-29 00:00:00,9
+reservation_status_date,2015-10-25 00:00:00,9
+reservation_status_date,2016-07-06 00:00:00,9
+reservation_status_date,2016-08-23 00:00:00,9
+reservation_status_date,2015-11-23 00:00:00,9
+reservation_status_date,2016-06-04 00:00:00,9
+reservation_status_date,2016-01-26 00:00:00,9
+reservation_status_date,2016-09-24 00:00:00,9
+reservation_status_date,2017-07-24 00:00:00,9
+reservation_status_date,2017-08-25 00:00:00,9
+reservation_status_date,2016-08-30 00:00:00,9
+reservation_status_date,2017-06-01 00:00:00,9
+reservation_status_date,2017-04-13 00:00:00,9
+reservation_status_date,2016-07-27 00:00:00,9
+reservation_status_date,2016-01-07 00:00:00,8
+reservation_status_date,2015-12-27 00:00:00,8
+reservation_status_date,2017-08-19 00:00:00,8
+reservation_status_date,2017-02-07 00:00:00,8
+reservation_status_date,2017-04-24 00:00:00,8
+reservation_status_date,2016-12-26 00:00:00,8
+reservation_status_date,2017-05-27 00:00:00,8
+reservation_status_date,2016-07-04 00:00:00,8
+reservation_status_date,2015-07-10 00:00:00,8
+reservation_status_date,2016-09-17 00:00:00,8
+reservation_status_date,2015-08-01 00:00:00,8
+reservation_status_date,2015-07-25 00:00:00,8
+reservation_status_date,2016-12-01 00:00:00,8
+reservation_status_date,2015-11-24 00:00:00,8
+reservation_status_date,2015-07-29 00:00:00,8
+reservation_status_date,2017-02-27 00:00:00,8
+reservation_status_date,2015-12-03 00:00:00,8
+reservation_status_date,2017-03-25 00:00:00,8
+reservation_status_date,2017-02-11 00:00:00,8
+reservation_status_date,2016-02-04 00:00:00,8
+reservation_status_date,2016-02-11 00:00:00,8
+reservation_status_date,2016-04-02 00:00:00,8
+reservation_status_date,2016-03-03 00:00:00,8
+reservation_status_date,2017-01-08 00:00:00,8
+reservation_status_date,2017-08-07 00:00:00,8
+reservation_status_date,2017-06-26 00:00:00,8
+reservation_status_date,2016-01-24 00:00:00,8
+reservation_status_date,2015-10-20 00:00:00,8
+reservation_status_date,2016-11-26 00:00:00,8
+reservation_status_date,2015-12-11 00:00:00,8
+reservation_status_date,2017-05-16 00:00:00,8
+reservation_status_date,2017-01-22 00:00:00,8
+reservation_status_date,2016-11-08 00:00:00,8
+reservation_status_date,2015-11-19 00:00:00,8
+reservation_status_date,2016-08-02 00:00:00,8
+reservation_status_date,2016-05-18 00:00:00,8
+reservation_status_date,2016-05-01 00:00:00,8
+reservation_status_date,2017-01-17 00:00:00,8
+reservation_status_date,2017-03-03 00:00:00,8
+reservation_status_date,2017-08-15 00:00:00,8
+reservation_status_date,2015-08-12 00:00:00,8
+reservation_status_date,2015-12-12 00:00:00,8
+reservation_status_date,2017-08-06 00:00:00,8
+reservation_status_date,2016-02-02 00:00:00,8
+reservation_status_date,2015-11-28 00:00:00,8
+reservation_status_date,2017-02-22 00:00:00,8
+reservation_status_date,2016-01-29 00:00:00,8
+reservation_status_date,2016-07-23 00:00:00,8
+reservation_status_date,2016-03-25 00:00:00,8
+reservation_status_date,2017-07-27 00:00:00,8
+reservation_status_date,2015-11-13 00:00:00,8
+reservation_status_date,2017-06-19 00:00:00,8
+reservation_status_date,2016-02-12 00:00:00,8
+reservation_status_date,2017-05-19 00:00:00,8
+reservation_status_date,2015-10-27 00:00:00,8
+reservation_status_date,2016-02-20 00:00:00,8
+reservation_status_date,2016-12-15 00:00:00,8
+reservation_status_date,2016-06-11 00:00:00,8
+reservation_status_date,2017-06-16 00:00:00,7
+reservation_status_date,2017-01-16 00:00:00,7
+reservation_status_date,2016-12-19 00:00:00,7
+reservation_status_date,2015-07-28 00:00:00,7
+reservation_status_date,2016-07-03 00:00:00,7
+reservation_status_date,2015-07-19 00:00:00,7
+reservation_status_date,2015-10-29 00:00:00,7
+reservation_status_date,2016-02-08 00:00:00,7
+reservation_status_date,2017-07-28 00:00:00,7
+reservation_status_date,2015-06-17 00:00:00,7
+reservation_status_date,2015-06-15 00:00:00,7
+reservation_status_date,2015-09-07 00:00:00,7
+reservation_status_date,2016-05-11 00:00:00,7
+reservation_status_date,2015-08-06 00:00:00,7
+reservation_status_date,2016-06-09 00:00:00,7
+reservation_status_date,2017-03-05 00:00:00,7
+reservation_status_date,2016-10-18 00:00:00,7
+reservation_status_date,2016-12-30 00:00:00,7
+reservation_status_date,2017-08-21 00:00:00,7
+reservation_status_date,2016-02-13 00:00:00,7
+reservation_status_date,2015-12-07 00:00:00,7
+reservation_status_date,2017-08-08 00:00:00,7
+reservation_status_date,2017-03-22 00:00:00,7
+reservation_status_date,2016-02-16 00:00:00,7
+reservation_status_date,2016-08-05 00:00:00,7
+reservation_status_date,2015-07-17 00:00:00,7
+reservation_status_date,2016-07-31 00:00:00,7
+reservation_status_date,2015-06-29 00:00:00,7
+reservation_status_date,2017-05-12 00:00:00,7
+reservation_status_date,2017-07-20 00:00:00,7
+reservation_status_date,2017-07-07 00:00:00,7
+reservation_status_date,2015-12-13 00:00:00,7
+reservation_status_date,2017-07-17 00:00:00,7
+reservation_status_date,2017-06-07 00:00:00,7
+reservation_status_date,2015-07-14 00:00:00,7
+reservation_status_date,2016-12-17 00:00:00,7
+reservation_status_date,2017-04-30 00:00:00,7
+reservation_status_date,2016-07-15 00:00:00,7
+reservation_status_date,2016-06-18 00:00:00,7
+reservation_status_date,2017-01-07 00:00:00,7
+reservation_status_date,2015-08-15 00:00:00,7
+reservation_status_date,2016-10-01 00:00:00,7
+reservation_status_date,2015-11-04 00:00:00,7
+reservation_status_date,2017-08-02 00:00:00,7
+reservation_status_date,2017-01-13 00:00:00,7
+reservation_status_date,2017-07-01 00:00:00,7
+reservation_status_date,2015-09-26 00:00:00,7
+reservation_status_date,2015-10-06 00:00:00,7
+reservation_status_date,2016-09-03 00:00:00,7
+reservation_status_date,2015-09-20 00:00:00,6
+reservation_status_date,2016-01-14 00:00:00,6
+reservation_status_date,2016-01-30 00:00:00,6
+reservation_status_date,2015-10-24 00:00:00,6
+reservation_status_date,2016-02-06 00:00:00,6
+reservation_status_date,2016-08-27 00:00:00,6
+reservation_status_date,2016-08-04 00:00:00,6
+reservation_status_date,2017-04-26 00:00:00,6
+reservation_status_date,2015-09-03 00:00:00,6
+reservation_status_date,2017-05-06 00:00:00,6
+reservation_status_date,2015-10-15 00:00:00,6
+reservation_status_date,2017-08-31 00:00:00,6
+reservation_status_date,2017-05-20 00:00:00,6
+reservation_status_date,2016-10-08 00:00:00,6
+reservation_status_date,2016-12-20 00:00:00,6
+reservation_status_date,2015-08-09 00:00:00,6
+reservation_status_date,2015-11-05 00:00:00,6
+reservation_status_date,2016-06-19 00:00:00,6
+reservation_status_date,2017-03-04 00:00:00,6
+reservation_status_date,2017-05-30 00:00:00,6
+reservation_status_date,2016-11-29 00:00:00,6
+reservation_status_date,2016-04-01 00:00:00,6
+reservation_status_date,2015-07-16 00:00:00,6
+reservation_status_date,2016-01-04 00:00:00,6
+reservation_status_date,2016-07-16 00:00:00,6
+reservation_status_date,2015-12-15 00:00:00,6
+reservation_status_date,2015-11-18 00:00:00,6
+reservation_status_date,2015-12-01 00:00:00,6
+reservation_status_date,2015-07-21 00:00:00,6
+reservation_status_date,2016-09-09 00:00:00,6
+reservation_status_date,2015-07-27 00:00:00,6
+reservation_status_date,2015-08-22 00:00:00,6
+reservation_status_date,2015-08-26 00:00:00,6
+reservation_status_date,2016-01-23 00:00:00,6
+reservation_status_date,2015-12-20 00:00:00,6
+reservation_status_date,2015-11-02 00:00:00,6
+reservation_status_date,2016-07-07 00:00:00,5
+reservation_status_date,2015-07-20 00:00:00,5
+reservation_status_date,2015-09-02 00:00:00,5
+reservation_status_date,2015-07-22 00:00:00,5
+reservation_status_date,2017-09-04 00:00:00,5
+reservation_status_date,2015-08-23 00:00:00,5
+reservation_status_date,2016-12-31 00:00:00,5
+reservation_status_date,2016-12-24 00:00:00,5
+reservation_status_date,2015-09-10 00:00:00,5
+reservation_status_date,2016-01-25 00:00:00,5
+reservation_status_date,2015-12-19 00:00:00,5
+reservation_status_date,2016-09-04 00:00:00,5
+reservation_status_date,2016-05-28 00:00:00,5
+reservation_status_date,2015-08-08 00:00:00,5
+reservation_status_date,2016-05-07 00:00:00,5
+reservation_status_date,2017-08-01 00:00:00,5
+reservation_status_date,2015-10-17 00:00:00,5
+reservation_status_date,2017-07-25 00:00:00,5
+reservation_status_date,2015-11-20 00:00:00,5
+reservation_status_date,2016-12-14 00:00:00,5
+reservation_status_date,2016-03-19 00:00:00,5
+reservation_status_date,2017-06-29 00:00:00,5
+reservation_status_date,2016-12-16 00:00:00,5
+reservation_status_date,2015-08-30 00:00:00,5
+reservation_status_date,2016-11-03 00:00:00,5
+reservation_status_date,2017-07-31 00:00:00,5
+reservation_status_date,2015-08-20 00:00:00,5
+reservation_status_date,2015-08-25 00:00:00,5
+reservation_status_date,2016-02-21 00:00:00,5
+reservation_status_date,2015-10-26 00:00:00,4
+reservation_status_date,2015-03-25 00:00:00,4
+reservation_status_date,2015-12-25 00:00:00,4
+reservation_status_date,2015-06-11 00:00:00,4
+reservation_status_date,2016-07-10 00:00:00,4
+reservation_status_date,2015-12-14 00:00:00,4
+reservation_status_date,2016-05-24 00:00:00,4
+reservation_status_date,2016-01-12 00:00:00,4
+reservation_status_date,2017-03-30 00:00:00,4
+reservation_status_date,2016-06-01 00:00:00,4
+reservation_status_date,2016-01-09 00:00:00,4
+reservation_status_date,2016-01-13 00:00:00,4
+reservation_status_date,2015-09-27 00:00:00,4
+reservation_status_date,2016-01-31 00:00:00,4
+reservation_status_date,2016-01-10 00:00:00,4
+reservation_status_date,2015-05-18 00:00:00,4
+reservation_status_date,2017-08-26 00:00:00,4
+reservation_status_date,2015-08-03 00:00:00,4
+reservation_status_date,2015-06-09 00:00:00,4
+reservation_status_date,2016-06-16 00:00:00,4
+reservation_status_date,2015-07-26 00:00:00,4
+reservation_status_date,2015-06-30 00:00:00,4
+reservation_status_date,2015-11-07 00:00:00,4
+reservation_status_date,2015-08-24 00:00:00,4
+reservation_status_date,2015-11-12 00:00:00,4
+reservation_status_date,2015-07-11 00:00:00,4
+reservation_status_date,2015-12-26 00:00:00,4
+reservation_status_date,2015-06-23 00:00:00,4
+reservation_status_date,2015-06-27 00:00:00,4
+reservation_status_date,2015-03-03 00:00:00,4
+reservation_status_date,2017-08-11 00:00:00,4
+reservation_status_date,2015-08-07 00:00:00,4
+reservation_status_date,2015-07-08 00:00:00,4
+reservation_status_date,2015-07-12 00:00:00,3
+reservation_status_date,2015-11-01 00:00:00,3
+reservation_status_date,2017-08-22 00:00:00,3
+reservation_status_date,2015-09-01 00:00:00,3
+reservation_status_date,2015-06-26 00:00:00,3
+reservation_status_date,2017-09-02 00:00:00,3
+reservation_status_date,2015-08-18 00:00:00,3
+reservation_status_date,2017-09-03 00:00:00,3
+reservation_status_date,2016-06-25 00:00:00,3
+reservation_status_date,2017-01-28 00:00:00,3
+reservation_status_date,2015-10-08 00:00:00,3
+reservation_status_date,2015-05-23 00:00:00,3
+reservation_status_date,2017-06-13 00:00:00,3
+reservation_status_date,2015-07-13 00:00:00,3
+reservation_status_date,2015-07-15 00:00:00,3
+reservation_status_date,2015-07-01 00:00:00,3
+reservation_status_date,2016-01-15 00:00:00,3
+reservation_status_date,2016-12-25 00:00:00,3
+reservation_status_date,2015-12-16 00:00:00,3
+reservation_status_date,2015-06-18 00:00:00,3
+reservation_status_date,2015-07-18 00:00:00,2
+reservation_status_date,2016-10-15 00:00:00,2
+reservation_status_date,2015-06-16 00:00:00,2
+reservation_status_date,2015-04-16 00:00:00,2
+reservation_status_date,2015-12-05 00:00:00,2
+reservation_status_date,2015-12-17 00:00:00,2
+reservation_status_date,2015-05-26 00:00:00,2
+reservation_status_date,2015-05-19 00:00:00,2
+reservation_status_date,2015-12-21 00:00:00,2
+reservation_status_date,2015-12-04 00:00:00,2
+reservation_status_date,2015-06-05 00:00:00,2
+reservation_status_date,2015-11-03 00:00:00,2
+reservation_status_date,2017-06-14 00:00:00,2
+reservation_status_date,2015-11-25 00:00:00,2
+reservation_status_date,2015-06-20 00:00:00,2
+reservation_status_date,2015-08-05 00:00:00,2
+reservation_status_date,2015-11-10 00:00:00,2
+reservation_status_date,2015-11-29 00:00:00,2
+reservation_status_date,2015-04-28 00:00:00,2
+reservation_status_date,2017-08-30 00:00:00,2
+reservation_status_date,2015-06-08 00:00:00,2
+reservation_status_date,2015-08-27 00:00:00,2
+reservation_status_date,2015-06-22 00:00:00,2
+reservation_status_date,2015-05-22 00:00:00,1
+reservation_status_date,2015-05-11 00:00:00,1
+reservation_status_date,2015-05-05 00:00:00,1
+reservation_status_date,2015-02-12 00:00:00,1
+reservation_status_date,2015-06-03 00:00:00,1
+reservation_status_date,2015-06-19 00:00:00,1
+reservation_status_date,2015-03-24 00:00:00,1
+reservation_status_date,2015-05-28 00:00:00,1
+reservation_status_date,2015-05-09 00:00:00,1
+reservation_status_date,2017-09-07 00:00:00,1
+reservation_status_date,2015-04-22 00:00:00,1
+reservation_status_date,2015-03-18 00:00:00,1
+reservation_status_date,2015-05-14 00:00:00,1
+reservation_status_date,2015-12-24 00:00:00,1
+reservation_status_date,2017-09-05 00:00:00,1
+reservation_status_date,2015-06-13 00:00:00,1
+reservation_status_date,2015-08-02 00:00:00,1
+reservation_status_date,2015-11-08 00:00:00,1
+reservation_status_date,2015-12-06 00:00:00,1
+reservation_status_date,2016-11-09 00:00:00,1
+reservation_status_date,2017-09-09 00:00:00,1
+reservation_status_date,2015-02-10 00:00:00,1
+reservation_status_date,2015-05-01 00:00:00,1
+reservation_status_date,2015-06-12 00:00:00,1
+reservation_status_date,2015-04-29 00:00:00,1
+reservation_status_date,2015-02-11 00:00:00,1
+reservation_status_date,2015-06-25 00:00:00,1
+reservation_status_date,2015-04-14 00:00:00,1
+reservation_status_date,2015-03-05 00:00:00,1
+reservation_status_date,2015-04-25 00:00:00,1
+reservation_status_date,2015-04-17 00:00:00,1
+reservation_status_date,2015-05-27 00:00:00,1
+reservation_status_date,2015-03-12 00:00:00,1
+reservation_status_date,2015-05-04 00:00:00,1
+reservation_status_date,2015-02-24 00:00:00,1
+arrival_date,2017-01-29 00:00:00,42
+arrival_date,2015-03-05 00:00:00,40
+arrival_date,2017-09-25 00:00:00,38
+arrival_date,2015-11-16 00:00:00,35
+arrival_date,2017-04-25 00:00:00,33
+arrival_date,2016-11-13 00:00:00,33
+arrival_date,2016-11-28 00:00:00,33
+arrival_date,2016-09-12 00:00:00,31
+arrival_date,2016-10-07 00:00:00,31
+arrival_date,2015-12-18 00:00:00,30
+arrival_date,2016-08-24 00:00:00,29
+arrival_date,2017-07-08 00:00:00,29
+arrival_date,2015-12-25 00:00:00,29
+arrival_date,2016-09-19 00:00:00,28
+arrival_date,2016-01-28 00:00:00,28
+arrival_date,2016-11-12 00:00:00,27
+arrival_date,2016-04-12 00:00:00,27
+arrival_date,2015-12-17 00:00:00,27
+arrival_date,2016-10-05 00:00:00,27
+arrival_date,2017-05-18 00:00:00,27
+arrival_date,2017-06-15 00:00:00,27
+arrival_date,2015-02-14 00:00:00,27
+arrival_date,2016-12-15 00:00:00,26
+arrival_date,2016-10-04 00:00:00,25
+arrival_date,2017-01-14 00:00:00,25
+arrival_date,2016-12-21 00:00:00,25
+arrival_date,2017-07-02 00:00:00,25
+arrival_date,2016-02-13 00:00:00,24
+arrival_date,2016-02-11 00:00:00,24
+arrival_date,2017-01-28 00:00:00,24
+arrival_date,2016-10-11 00:00:00,24
+arrival_date,2016-09-05 00:00:00,24
+arrival_date,2015-03-29 00:00:00,24
+arrival_date,2016-12-26 00:00:00,24
+arrival_date,2016-10-21 00:00:00,24
+arrival_date,2016-11-16 00:00:00,23
+arrival_date,2017-07-17 00:00:00,23
+arrival_date,2016-07-08 00:00:00,23
+arrival_date,2017-02-15 00:00:00,23
+arrival_date,2016-12-19 00:00:00,23
+arrival_date,2016-12-09 00:00:00,23
+arrival_date,2016-07-24 00:00:00,23
+arrival_date,2015-03-30 00:00:00,23
+arrival_date,2017-07-19 00:00:00,23
+arrival_date,2017-01-08 00:00:00,23
+arrival_date,2017-09-19 00:00:00,23
+arrival_date,2016-09-24 00:00:00,23
+arrival_date,2017-01-13 00:00:00,23
+arrival_date,2016-12-30 00:00:00,23
+arrival_date,2016-09-26 00:00:00,22
+arrival_date,2017-08-15 00:00:00,22
+arrival_date,2017-09-24 00:00:00,22
+arrival_date,2017-01-09 00:00:00,22
+arrival_date,2016-11-06 00:00:00,22
+arrival_date,2016-11-09 00:00:00,22
+arrival_date,2016-04-17 00:00:00,22
+arrival_date,2016-08-25 00:00:00,22
+arrival_date,2017-09-11 00:00:00,22
+arrival_date,2016-09-13 00:00:00,21
+arrival_date,2017-01-05 00:00:00,21
+arrival_date,2016-05-02 00:00:00,21
+arrival_date,2017-08-13 00:00:00,21
+arrival_date,2016-07-14 00:00:00,21
+arrival_date,2016-01-18 00:00:00,21
+arrival_date,2016-02-01 00:00:00,21
+arrival_date,2017-08-02 00:00:00,21
+arrival_date,2017-09-04 00:00:00,21
+arrival_date,2015-12-09 00:00:00,20
+arrival_date,2015-12-21 00:00:00,20
+arrival_date,2016-08-30 00:00:00,20
+arrival_date,2017-09-09 00:00:00,20
+arrival_date,2016-11-29 00:00:00,20
+arrival_date,2017-02-21 00:00:00,20
+arrival_date,2017-07-01 00:00:00,20
+arrival_date,2016-02-25 00:00:00,20
+arrival_date,2017-06-12 00:00:00,20
+arrival_date,2017-09-30 00:00:00,20
+arrival_date,2017-02-28 00:00:00,20
+arrival_date,2016-07-23 00:00:00,20
+arrival_date,2016-12-29 00:00:00,20
+arrival_date,2017-09-15 00:00:00,20
+arrival_date,2017-09-10 00:00:00,20
+arrival_date,2017-04-26 00:00:00,20
+arrival_date,2016-08-19 00:00:00,20
+arrival_date,2016-09-02 00:00:00,20
+arrival_date,2016-12-18 00:00:00,20
+arrival_date,2016-09-29 00:00:00,20
+arrival_date,2016-10-01 00:00:00,20
+arrival_date,2017-04-13 00:00:00,20
+arrival_date,2017-02-07 00:00:00,20
+arrival_date,2017-01-03 00:00:00,20
+arrival_date,2017-01-15 00:00:00,20
+arrival_date,2016-03-08 00:00:00,20
+arrival_date,2015-10-23 00:00:00,19
+arrival_date,2016-01-09 00:00:00,19
+arrival_date,2016-06-21 00:00:00,19
+arrival_date,2016-11-21 00:00:00,19
+arrival_date,2015-11-10 00:00:00,19
+arrival_date,2016-04-26 00:00:00,19
+arrival_date,2017-07-09 00:00:00,19
+arrival_date,2017-07-20 00:00:00,19
+arrival_date,2017-09-28 00:00:00,19
+arrival_date,2016-02-26 00:00:00,19
+arrival_date,2016-09-20 00:00:00,19
+arrival_date,2016-01-24 00:00:00,19
+arrival_date,2016-08-04 00:00:00,19
+arrival_date,2016-06-06 00:00:00,19
+arrival_date,2017-08-11 00:00:00,19
+arrival_date,2017-01-26 00:00:00,19
+arrival_date,2016-09-09 00:00:00,19
+arrival_date,2017-02-12 00:00:00,19
+arrival_date,2017-09-12 00:00:00,19
+arrival_date,2016-04-27 00:00:00,19
+arrival_date,2016-07-15 00:00:00,19
+arrival_date,2015-12-19 00:00:00,19
+arrival_date,2017-09-03 00:00:00,18
+arrival_date,2016-01-06 00:00:00,18
+arrival_date,2016-01-20 00:00:00,18
+arrival_date,2017-05-14 00:00:00,18
+arrival_date,2016-02-15 00:00:00,18
+arrival_date,2016-03-30 00:00:00,18
+arrival_date,2017-07-21 00:00:00,18
+arrival_date,2016-02-08 00:00:00,18
+arrival_date,2016-08-31 00:00:00,18
+arrival_date,2017-07-28 00:00:00,18
+arrival_date,2016-09-14 00:00:00,18
+arrival_date,2016-11-03 00:00:00,18
+arrival_date,2015-12-30 00:00:00,18
+arrival_date,2017-09-22 00:00:00,18
+arrival_date,2016-10-03 00:00:00,18
+arrival_date,2017-07-03 00:00:00,18
+arrival_date,2016-02-28 00:00:00,18
+arrival_date,2016-11-20 00:00:00,18
+arrival_date,2017-06-06 00:00:00,18
+arrival_date,2016-06-22 00:00:00,18
+arrival_date,2017-08-24 00:00:00,18
+arrival_date,2016-11-11 00:00:00,18
+arrival_date,2016-09-15 00:00:00,18
+arrival_date,2016-12-16 00:00:00,18
+arrival_date,2017-06-24 00:00:00,18
+arrival_date,2016-06-23 00:00:00,18
+arrival_date,2016-07-26 00:00:00,18
+arrival_date,2017-07-30 00:00:00,18
+arrival_date,2017-08-31 00:00:00,18
+arrival_date,2016-07-06 00:00:00,18
+arrival_date,2015-11-04 00:00:00,18
+arrival_date,2016-02-16 00:00:00,18
+arrival_date,2017-01-19 00:00:00,18
+arrival_date,2017-08-10 00:00:00,18
+arrival_date,2015-11-15 00:00:00,17
+arrival_date,2016-07-27 00:00:00,17
+arrival_date,2016-12-11 00:00:00,17
+arrival_date,2017-08-09 00:00:00,17
+arrival_date,2017-06-22 00:00:00,17
+arrival_date,2016-09-21 00:00:00,17
+arrival_date,2017-05-23 00:00:00,17
+arrival_date,2017-06-13 00:00:00,17
+arrival_date,2016-11-22 00:00:00,17
+arrival_date,2015-11-07 00:00:00,17
+arrival_date,2016-03-27 00:00:00,17
+arrival_date,2017-04-22 00:00:00,17
+arrival_date,2016-12-20 00:00:00,17
+arrival_date,2016-11-17 00:00:00,17
+arrival_date,2017-01-16 00:00:00,17
+arrival_date,2016-08-21 00:00:00,17
+arrival_date,2016-07-02 00:00:00,17
+arrival_date,2016-01-29 00:00:00,17
+arrival_date,2016-07-10 00:00:00,17
+arrival_date,2017-06-14 00:00:00,17
+arrival_date,2017-07-14 00:00:00,17
+arrival_date,2017-09-01 00:00:00,17
+arrival_date,2017-09-13 00:00:00,17
+arrival_date,2016-08-20 00:00:00,17
+arrival_date,2015-12-11 00:00:00,17
+arrival_date,2017-02-02 00:00:00,17
+arrival_date,2015-12-16 00:00:00,16
+arrival_date,2017-04-10 00:00:00,16
+arrival_date,2017-08-14 00:00:00,16
+arrival_date,2015-11-25 00:00:00,16
+arrival_date,2016-08-18 00:00:00,16
+arrival_date,2016-08-22 00:00:00,16
+arrival_date,2016-10-25 00:00:00,16
+arrival_date,2017-01-18 00:00:00,16
+arrival_date,2017-08-05 00:00:00,16
+arrival_date,2016-01-04 00:00:00,16
+arrival_date,2017-06-30 00:00:00,16
+arrival_date,2016-07-20 00:00:00,16
+arrival_date,2016-12-08 00:00:00,16
+arrival_date,2016-02-20 00:00:00,16
+arrival_date,2016-10-02 00:00:00,16
+arrival_date,2016-02-18 00:00:00,16
+arrival_date,2016-01-02 00:00:00,16
+arrival_date,2017-06-11 00:00:00,16
+arrival_date,2017-06-04 00:00:00,16
+arrival_date,2017-02-23 00:00:00,16
+arrival_date,2015-12-10 00:00:00,16
+arrival_date,2017-07-18 00:00:00,16
+arrival_date,2015-02-15 00:00:00,16
+arrival_date,2017-06-17 00:00:00,16
+arrival_date,2017-04-20 00:00:00,16
+arrival_date,2016-02-04 00:00:00,16
+arrival_date,2015-03-08 00:00:00,16
+arrival_date,2016-06-25 00:00:00,16
+arrival_date,2016-02-21 00:00:00,16
+arrival_date,2016-11-23 00:00:00,16
+arrival_date,2016-06-15 00:00:00,16
+arrival_date,2016-08-17 00:00:00,16
+arrival_date,2016-07-17 00:00:00,16
+arrival_date,2015-02-08 00:00:00,16
+arrival_date,2016-08-09 00:00:00,16
+arrival_date,2017-02-06 00:00:00,16
+arrival_date,2017-02-17 00:00:00,16
+arrival_date,2016-12-03 00:00:00,16
+arrival_date,2017-02-25 00:00:00,16
+arrival_date,2016-10-18 00:00:00,16
+arrival_date,2017-04-12 00:00:00,16
+arrival_date,2017-01-10 00:00:00,16
+arrival_date,2017-01-23 00:00:00,16
+arrival_date,2015-12-12 00:00:00,16
+arrival_date,2015-11-09 00:00:00,16
+arrival_date,2016-06-11 00:00:00,16
+arrival_date,2016-11-24 00:00:00,16
+arrival_date,2016-04-19 00:00:00,16
+arrival_date,2017-01-06 00:00:00,16
+arrival_date,2017-04-17 00:00:00,16
+arrival_date,2017-02-27 00:00:00,16
+arrival_date,2016-06-01 00:00:00,16
+arrival_date,2016-01-26 00:00:00,16
+arrival_date,2016-07-09 00:00:00,16
+arrival_date,2016-03-02 00:00:00,16
+arrival_date,2016-09-16 00:00:00,16
+arrival_date,2017-06-02 00:00:00,16
+arrival_date,2017-02-20 00:00:00,16
+arrival_date,2017-09-18 00:00:00,16
+arrival_date,2016-09-17 00:00:00,16
+arrival_date,2017-07-12 00:00:00,15
+arrival_date,2015-12-01 00:00:00,15
+arrival_date,2016-06-16 00:00:00,15
+arrival_date,2015-03-09 00:00:00,15
+arrival_date,2017-09-08 00:00:00,15
+arrival_date,2015-10-18 00:00:00,15
+arrival_date,2017-01-11 00:00:00,15
+arrival_date,2017-07-15 00:00:00,15
+arrival_date,2016-08-05 00:00:00,15
+arrival_date,2016-07-28 00:00:00,15
+arrival_date,2017-02-16 00:00:00,15
+arrival_date,2015-02-24 00:00:00,15
+arrival_date,2017-04-01 00:00:00,15
+arrival_date,2016-10-14 00:00:00,15
+arrival_date,2015-11-06 00:00:00,15
+arrival_date,2016-10-23 00:00:00,15
+arrival_date,2015-12-26 00:00:00,15
+arrival_date,2017-06-20 00:00:00,15
+arrival_date,2017-04-23 00:00:00,15
+arrival_date,2016-02-03 00:00:00,15
+arrival_date,2017-07-27 00:00:00,15
+arrival_date,2017-01-30 00:00:00,15
+arrival_date,2016-10-12 00:00:00,15
+arrival_date,2017-08-19 00:00:00,15
+arrival_date,2017-06-10 00:00:00,15
+arrival_date,2016-12-01 00:00:00,15
+arrival_date,2016-12-02 00:00:00,15
+arrival_date,2015-06-25 00:00:00,15
+arrival_date,2016-01-30 00:00:00,15
+arrival_date,2015-02-17 00:00:00,15
+arrival_date,2016-01-22 00:00:00,15
+arrival_date,2017-06-01 00:00:00,15
+arrival_date,2016-06-20 00:00:00,15
+arrival_date,2016-07-01 00:00:00,15
+arrival_date,2016-01-12 00:00:00,15
+arrival_date,2015-11-19 00:00:00,15
+arrival_date,2017-06-07 00:00:00,15
+arrival_date,2017-01-27 00:00:00,15
+arrival_date,2016-07-12 00:00:00,15
+arrival_date,2016-01-13 00:00:00,14
+arrival_date,2016-11-04 00:00:00,14
+arrival_date,2016-12-27 00:00:00,14
+arrival_date,2016-01-07 00:00:00,14
+arrival_date,2016-01-08 00:00:00,14
+arrival_date,2015-12-24 00:00:00,14
+arrival_date,2016-03-03 00:00:00,14
+arrival_date,2017-02-19 00:00:00,14
+arrival_date,2016-05-22 00:00:00,14
+arrival_date,2016-06-28 00:00:00,14
+arrival_date,2017-04-21 00:00:00,14
+arrival_date,2016-09-10 00:00:00,14
+arrival_date,2017-04-27 00:00:00,14
+arrival_date,2016-11-30 00:00:00,14
+arrival_date,2017-01-20 00:00:00,14
+arrival_date,2015-02-05 00:00:00,14
+arrival_date,2015-06-01 00:00:00,14
+arrival_date,2017-01-22 00:00:00,14
+arrival_date,2017-09-05 00:00:00,14
+arrival_date,2016-07-07 00:00:00,14
+arrival_date,2015-11-05 00:00:00,14
+arrival_date,2017-07-25 00:00:00,14
+arrival_date,2016-04-06 00:00:00,14
+arrival_date,2017-01-01 00:00:00,14
+arrival_date,2016-11-14 00:00:00,14
+arrival_date,2017-06-23 00:00:00,14
+arrival_date,2016-01-16 00:00:00,14
+arrival_date,2015-03-31 00:00:00,14
+arrival_date,2017-02-18 00:00:00,14
+arrival_date,2016-02-24 00:00:00,14
+arrival_date,2017-07-07 00:00:00,14
+arrival_date,2017-02-22 00:00:00,14
+arrival_date,2016-04-28 00:00:00,14
+arrival_date,2017-01-17 00:00:00,14
+arrival_date,2016-11-10 00:00:00,14
+arrival_date,2016-06-09 00:00:00,14
+arrival_date,2015-12-23 00:00:00,14
+arrival_date,2016-12-28 00:00:00,14
+arrival_date,2016-06-12 00:00:00,14
+arrival_date,2015-12-05 00:00:00,14
+arrival_date,2016-09-30 00:00:00,14
+arrival_date,2017-09-20 00:00:00,14
+arrival_date,2017-09-26 00:00:00,14
+arrival_date,2016-03-16 00:00:00,14
+arrival_date,2017-02-08 00:00:00,14
+arrival_date,2015-10-20 00:00:00,14
+arrival_date,2017-08-12 00:00:00,14
+arrival_date,2016-02-06 00:00:00,13
+arrival_date,2017-04-11 00:00:00,13
+arrival_date,2016-01-05 00:00:00,13
+arrival_date,2016-01-14 00:00:00,13
+arrival_date,2017-02-03 00:00:00,13
+arrival_date,2017-05-02 00:00:00,13
+arrival_date,2016-01-19 00:00:00,13
+arrival_date,2017-06-21 00:00:00,13
+arrival_date,2017-06-03 00:00:00,13
+arrival_date,2016-06-18 00:00:00,13
+arrival_date,2016-06-10 00:00:00,13
+arrival_date,2016-07-30 00:00:00,13
+arrival_date,2016-03-29 00:00:00,13
+arrival_date,2017-08-06 00:00:00,13
+arrival_date,2017-06-26 00:00:00,13
+arrival_date,2016-02-22 00:00:00,13
+arrival_date,2016-11-01 00:00:00,13
+arrival_date,2017-09-06 00:00:00,13
+arrival_date,2015-11-12 00:00:00,13
+arrival_date,2016-04-07 00:00:00,13
+arrival_date,2017-06-28 00:00:00,13
+arrival_date,2016-12-24 00:00:00,13
+arrival_date,2017-05-17 00:00:00,13
+arrival_date,2017-05-16 00:00:00,13
+arrival_date,2015-11-21 00:00:00,13
+arrival_date,2017-01-24 00:00:00,13
+arrival_date,2017-08-01 00:00:00,13
+arrival_date,2017-05-30 00:00:00,13
+arrival_date,2016-10-10 00:00:00,13
+arrival_date,2016-10-29 00:00:00,13
+arrival_date,2017-04-28 00:00:00,13
+arrival_date,2017-09-16 00:00:00,13
+arrival_date,2016-06-04 00:00:00,13
+arrival_date,2015-12-06 00:00:00,13
+arrival_date,2016-06-07 00:00:00,13
+arrival_date,2015-11-17 00:00:00,13
+arrival_date,2015-12-07 00:00:00,13
+arrival_date,2016-11-27 00:00:00,13
+arrival_date,2017-02-01 00:00:00,13
+arrival_date,2017-07-05 00:00:00,13
+arrival_date,2016-12-12 00:00:00,13
+arrival_date,2017-09-21 00:00:00,13
+arrival_date,2016-11-19 00:00:00,13
+arrival_date,2017-04-02 00:00:00,13
+arrival_date,2017-02-24 00:00:00,13
+arrival_date,2016-03-12 00:00:00,13
+arrival_date,2016-10-17 00:00:00,13
+arrival_date,2015-11-01 00:00:00,13
+arrival_date,2015-12-15 00:00:00,13
+arrival_date,2015-12-29 00:00:00,13
+arrival_date,2016-12-05 00:00:00,12
+arrival_date,2017-05-12 00:00:00,12
+arrival_date,2017-01-21 00:00:00,12
+arrival_date,2016-09-08 00:00:00,12
+arrival_date,2016-01-11 00:00:00,12
+arrival_date,2017-08-26 00:00:00,12
+arrival_date,2017-06-18 00:00:00,12
+arrival_date,2016-12-13 00:00:00,12
+arrival_date,2016-01-10 00:00:00,12
+arrival_date,2017-07-11 00:00:00,12
+arrival_date,2017-04-14 00:00:00,12
+arrival_date,2016-09-27 00:00:00,12
+arrival_date,2016-03-01 00:00:00,12
+arrival_date,2017-08-20 00:00:00,12
+arrival_date,2016-08-29 00:00:00,12
+arrival_date,2016-01-15 00:00:00,12
+arrival_date,2017-04-04 00:00:00,12
+arrival_date,2015-12-03 00:00:00,12
+arrival_date,2015-06-20 00:00:00,12
+arrival_date,2016-02-05 00:00:00,12
+arrival_date,2015-02-01 00:00:00,12
+arrival_date,2015-03-19 00:00:00,12
+arrival_date,2016-12-14 00:00:00,12
+arrival_date,2016-02-23 00:00:00,12
+arrival_date,2016-08-06 00:00:00,12
+arrival_date,2017-05-28 00:00:00,12
+arrival_date,2016-02-02 00:00:00,12
+arrival_date,2016-03-28 00:00:00,12
+arrival_date,2015-06-16 00:00:00,12
+arrival_date,2016-12-25 00:00:00,12
+arrival_date,2016-06-19 00:00:00,12
+arrival_date,2017-05-19 00:00:00,12
+arrival_date,2016-07-04 00:00:00,12
+arrival_date,2016-02-12 00:00:00,12
+arrival_date,2016-06-14 00:00:00,12
+arrival_date,2016-03-05 00:00:00,12
+arrival_date,2015-02-10 00:00:00,12
+arrival_date,2016-09-04 00:00:00,12
+arrival_date,2016-06-30 00:00:00,12
+arrival_date,2017-04-03 00:00:00,12
+arrival_date,2017-02-10 00:00:00,12
+arrival_date,2015-11-02 00:00:00,12
+arrival_date,2016-12-17 00:00:00,12
+arrival_date,2017-06-25 00:00:00,11
+arrival_date,2016-08-08 00:00:00,11
+arrival_date,2017-02-09 00:00:00,11
+arrival_date,2016-04-05 00:00:00,11
+arrival_date,2015-02-28 00:00:00,11
+arrival_date,2017-09-29 00:00:00,11
+arrival_date,2017-04-16 00:00:00,11
+arrival_date,2016-04-29 00:00:00,11
+arrival_date,2017-05-25 00:00:00,11
+arrival_date,2017-04-19 00:00:00,11
+arrival_date,2016-07-03 00:00:00,11
+arrival_date,2015-10-27 00:00:00,11
+arrival_date,2015-11-18 00:00:00,11
+arrival_date,2017-07-23 00:00:00,11
+arrival_date,2015-11-03 00:00:00,11
+arrival_date,2015-12-04 00:00:00,11
+arrival_date,2016-12-23 00:00:00,11
+arrival_date,2016-08-03 00:00:00,11
+arrival_date,2015-06-09 00:00:00,11
+arrival_date,2015-11-13 00:00:00,11
+arrival_date,2016-03-23 00:00:00,11
+arrival_date,2016-02-14 00:00:00,11
+arrival_date,2015-06-23 00:00:00,11
+arrival_date,2017-09-27 00:00:00,11
+arrival_date,2016-09-18 00:00:00,11
+arrival_date,2015-03-27 00:00:00,11
+arrival_date,2015-11-20 00:00:00,11
+arrival_date,2016-06-27 00:00:00,11
+arrival_date,2017-08-08 00:00:00,11
+arrival_date,2015-11-29 00:00:00,11
+arrival_date,2017-08-22 00:00:00,11
+arrival_date,2016-11-15 00:00:00,11
+arrival_date,2016-11-07 00:00:00,11
+arrival_date,2016-01-27 00:00:00,11
+arrival_date,2016-11-05 00:00:00,11
+arrival_date,2017-04-24 00:00:00,11
+arrival_date,2017-07-26 00:00:00,11
+arrival_date,2015-12-14 00:00:00,11
+arrival_date,2016-06-24 00:00:00,11
+arrival_date,2016-07-19 00:00:00,11
+arrival_date,2017-06-08 00:00:00,11
+arrival_date,2016-01-03 00:00:00,11
+arrival_date,2016-08-27 00:00:00,11
+arrival_date,2017-02-05 00:00:00,11
+arrival_date,2017-05-10 00:00:00,11
+arrival_date,2016-01-25 00:00:00,11
+arrival_date,2017-02-04 00:00:00,11
+arrival_date,2015-02-20 00:00:00,11
+arrival_date,2016-10-09 00:00:00,11
+arrival_date,2015-11-24 00:00:00,11
+arrival_date,2017-07-16 00:00:00,11
+arrival_date,2016-11-18 00:00:00,11
+arrival_date,2017-02-26 00:00:00,11
+arrival_date,2016-02-17 00:00:00,11
+arrival_date,2016-08-28 00:00:00,11
+arrival_date,2016-08-10 00:00:00,11
+arrival_date,2017-01-12 00:00:00,11
+arrival_date,2016-01-17 00:00:00,11
+arrival_date,2016-01-01 00:00:00,10
+arrival_date,2017-07-04 00:00:00,10
+arrival_date,2017-04-06 00:00:00,10
+arrival_date,2016-09-28 00:00:00,10
+arrival_date,2016-02-07 00:00:00,10
+arrival_date,2016-10-08 00:00:00,10
+arrival_date,2016-10-19 00:00:00,10
+arrival_date,2015-03-10 00:00:00,10
+arrival_date,2017-08-07 00:00:00,10
+arrival_date,2015-06-17 00:00:00,10
+arrival_date,2017-09-17 00:00:00,10
+arrival_date,2015-11-28 00:00:00,10
+arrival_date,2016-04-04 00:00:00,10
+arrival_date,2017-08-29 00:00:00,10
+arrival_date,2015-02-18 00:00:00,10
+arrival_date,2017-02-13 00:00:00,10
+arrival_date,2016-04-03 00:00:00,10
+arrival_date,2017-09-02 00:00:00,10
+arrival_date,2016-12-04 00:00:00,10
+arrival_date,2016-08-07 00:00:00,10
+arrival_date,2016-03-19 00:00:00,10
+arrival_date,2016-09-23 00:00:00,10
+arrival_date,2017-05-03 00:00:00,10
+arrival_date,2017-08-16 00:00:00,10
+arrival_date,2017-09-23 00:00:00,10
+arrival_date,2015-03-04 00:00:00,10
+arrival_date,2015-10-07 00:00:00,10
+arrival_date,2016-09-01 00:00:00,10
+arrival_date,2016-10-06 00:00:00,10
+arrival_date,2017-01-07 00:00:00,10
+arrival_date,2017-08-30 00:00:00,10
+arrival_date,2016-03-07 00:00:00,10
+arrival_date,2015-06-18 00:00:00,10
+arrival_date,2016-01-21 00:00:00,10
+arrival_date,2016-10-13 00:00:00,10
+arrival_date,2016-03-26 00:00:00,10
+arrival_date,2015-12-08 00:00:00,10
+arrival_date,2017-05-08 00:00:00,10
+arrival_date,2015-03-03 00:00:00,10
+arrival_date,2017-06-16 00:00:00,10
+arrival_date,2015-06-30 00:00:00,10
+arrival_date,2017-08-27 00:00:00,9
+arrival_date,2015-03-25 00:00:00,9
+arrival_date,2015-02-13 00:00:00,9
+arrival_date,2015-03-26 00:00:00,9
+arrival_date,2015-02-09 00:00:00,9
+arrival_date,2016-04-08 00:00:00,9
+arrival_date,2017-05-13 00:00:00,9
+arrival_date,2015-03-22 00:00:00,9
+arrival_date,2015-02-22 00:00:00,9
+arrival_date,2017-07-22 00:00:00,9
+arrival_date,2017-06-27 00:00:00,9
+arrival_date,2017-05-21 00:00:00,9
+arrival_date,2016-08-23 00:00:00,9
+arrival_date,2017-08-21 00:00:00,9
+arrival_date,2017-06-05 00:00:00,9
+arrival_date,2017-09-14 00:00:00,9
+arrival_date,2016-08-14 00:00:00,9
+arrival_date,2015-11-08 00:00:00,9
+arrival_date,2017-02-11 00:00:00,9
+arrival_date,2017-04-09 00:00:00,9
+arrival_date,2016-05-21 00:00:00,9
+arrival_date,2016-04-13 00:00:00,9
+arrival_date,2015-02-12 00:00:00,9
+arrival_date,2016-07-22 00:00:00,9
+arrival_date,2016-05-25 00:00:00,9
+arrival_date,2016-07-21 00:00:00,9
+arrival_date,2015-02-06 00:00:00,9
+arrival_date,2017-02-14 00:00:00,9
+arrival_date,2017-05-07 00:00:00,9
+arrival_date,2015-02-03 00:00:00,9
+arrival_date,2016-12-22 00:00:00,9
+arrival_date,2015-06-22 00:00:00,9
+arrival_date,2016-12-06 00:00:00,9
+arrival_date,2015-06-11 00:00:00,9
+arrival_date,2016-03-04 00:00:00,9
+arrival_date,2017-05-01 00:00:00,9
+arrival_date,2017-01-02 00:00:00,9
+arrival_date,2017-05-29 00:00:00,9
+arrival_date,2016-06-17 00:00:00,9
+arrival_date,2016-03-10 00:00:00,9
+arrival_date,2017-07-29 00:00:00,9
+arrival_date,2016-01-23 00:00:00,9
+arrival_date,2016-03-22 00:00:00,9
+arrival_date,2016-06-03 00:00:00,9
+arrival_date,2015-02-11 00:00:00,9
+arrival_date,2016-07-11 00:00:00,9
+arrival_date,2016-04-16 00:00:00,9
+arrival_date,2016-07-13 00:00:00,9
+arrival_date,2015-06-13 00:00:00,9
+arrival_date,2017-08-28 00:00:00,9
+arrival_date,2017-09-07 00:00:00,9
+arrival_date,2017-08-18 00:00:00,9
+arrival_date,2015-12-22 00:00:00,9
+arrival_date,2017-08-04 00:00:00,9
+arrival_date,2016-02-10 00:00:00,8
+arrival_date,2016-04-23 00:00:00,8
+arrival_date,2016-04-22 00:00:00,8
+arrival_date,2016-08-13 00:00:00,8
+arrival_date,2016-09-22 00:00:00,8
+arrival_date,2016-10-27 00:00:00,8
+arrival_date,2016-10-22 00:00:00,8
+arrival_date,2016-08-12 00:00:00,8
+arrival_date,2016-05-19 00:00:00,8
+arrival_date,2017-08-17 00:00:00,8
+arrival_date,2016-09-07 00:00:00,8
+arrival_date,2017-04-15 00:00:00,8
+arrival_date,2016-08-11 00:00:00,8
+arrival_date,2016-03-06 00:00:00,8
+arrival_date,2016-06-05 00:00:00,8
+arrival_date,2015-02-16 00:00:00,8
+arrival_date,2016-05-27 00:00:00,8
+arrival_date,2016-03-24 00:00:00,8
+arrival_date,2015-12-20 00:00:00,8
+arrival_date,2015-06-06 00:00:00,8
+arrival_date,2016-04-14 00:00:00,8
+arrival_date,2016-06-02 00:00:00,8
+arrival_date,2015-06-27 00:00:00,8
+arrival_date,2016-03-20 00:00:00,8
+arrival_date,2016-07-16 00:00:00,8
+arrival_date,2016-02-29 00:00:00,8
+arrival_date,2015-12-02 00:00:00,8
+arrival_date,2016-04-20 00:00:00,8
+arrival_date,2016-07-05 00:00:00,8
+arrival_date,2016-10-24 00:00:00,8
+arrival_date,2016-12-10 00:00:00,8
+arrival_date,2017-01-04 00:00:00,8
+arrival_date,2016-09-03 00:00:00,8
+arrival_date,2016-03-17 00:00:00,8
+arrival_date,2017-06-09 00:00:00,8
+arrival_date,2015-10-04 00:00:00,8
+arrival_date,2017-05-15 00:00:00,8
+arrival_date,2017-07-06 00:00:00,8
+arrival_date,2017-05-05 00:00:00,8
+arrival_date,2016-10-28 00:00:00,8
+arrival_date,2016-07-29 00:00:00,8
+arrival_date,2017-08-23 00:00:00,8
+arrival_date,2016-04-25 00:00:00,8
+arrival_date,2016-11-25 00:00:00,7
+arrival_date,2016-08-16 00:00:00,7
+arrival_date,2015-02-23 00:00:00,7
+arrival_date,2016-07-18 00:00:00,7
+arrival_date,2015-06-21 00:00:00,7
+arrival_date,2017-07-10 00:00:00,7
+arrival_date,2016-06-08 00:00:00,7
+arrival_date,2016-10-15 00:00:00,7
+arrival_date,2015-02-07 00:00:00,7
+arrival_date,2016-12-07 00:00:00,7
+arrival_date,2017-08-03 00:00:00,7
+arrival_date,2016-04-21 00:00:00,7
+arrival_date,2016-08-15 00:00:00,7
+arrival_date,2015-10-03 00:00:00,7
+arrival_date,2015-10-12 00:00:00,7
+arrival_date,2017-07-13 00:00:00,7
+arrival_date,2016-08-01 00:00:00,7
+arrival_date,2015-02-27 00:00:00,7
+arrival_date,2017-06-19 00:00:00,7
+arrival_date,2016-08-02 00:00:00,7
+arrival_date,2016-05-15 00:00:00,7
+arrival_date,2017-05-27 00:00:00,7
+arrival_date,2016-05-16 00:00:00,7
+arrival_date,2015-11-11 00:00:00,7
+arrival_date,2016-04-11 00:00:00,7
+arrival_date,2015-10-11 00:00:00,7
+arrival_date,2015-06-19 00:00:00,7
+arrival_date,2016-03-25 00:00:00,7
+arrival_date,2016-10-16 00:00:00,7
+arrival_date,2016-08-26 00:00:00,7
+arrival_date,2015-10-22 00:00:00,7
+arrival_date,2016-09-06 00:00:00,7
+arrival_date,2017-05-04 00:00:00,7
+arrival_date,2016-04-18 00:00:00,7
+arrival_date,2015-10-16 00:00:00,7
+arrival_date,2016-11-26 00:00:00,7
+arrival_date,2015-12-28 00:00:00,7
+arrival_date,2015-11-23 00:00:00,7
+arrival_date,2016-03-14 00:00:00,7
+arrival_date,2016-03-15 00:00:00,7
+arrival_date,2015-11-30 00:00:00,6
+arrival_date,2016-03-18 00:00:00,6
+arrival_date,2016-05-18 00:00:00,6
+arrival_date,2017-05-26 00:00:00,6
+arrival_date,2015-06-02 00:00:00,6
+arrival_date,2015-10-06 00:00:00,6
+arrival_date,2016-03-21 00:00:00,6
+arrival_date,2017-05-24 00:00:00,6
+arrival_date,2015-03-16 00:00:00,6
+arrival_date,2016-10-30 00:00:00,6
+arrival_date,2016-05-07 00:00:00,6
+arrival_date,2016-04-09 00:00:00,6
+arrival_date,2016-05-23 00:00:00,6
+arrival_date,2016-02-27 00:00:00,6
+arrival_date,2017-07-24 00:00:00,6
+arrival_date,2017-04-08 00:00:00,6
+arrival_date,2016-05-03 00:00:00,6
+arrival_date,2015-12-27 00:00:00,6
+arrival_date,2016-02-09 00:00:00,6
+arrival_date,2015-06-05 00:00:00,6
+arrival_date,2015-06-28 00:00:00,6
+arrival_date,2015-02-04 00:00:00,6
+arrival_date,2016-10-26 00:00:00,6
+arrival_date,2016-11-08 00:00:00,6
+arrival_date,2016-04-15 00:00:00,6
+arrival_date,2015-10-24 00:00:00,6
+arrival_date,2015-02-26 00:00:00,6
+arrival_date,2016-09-25 00:00:00,6
+arrival_date,2015-06-03 00:00:00,6
+arrival_date,2016-02-19 00:00:00,6
+arrival_date,2015-03-24 00:00:00,6
+arrival_date,2016-06-26 00:00:00,6
+arrival_date,2016-04-02 00:00:00,6
+arrival_date,2016-04-10 00:00:00,6
+arrival_date,2015-06-15 00:00:00,6
+arrival_date,2015-10-13 00:00:00,6
+arrival_date,2015-03-28 00:00:00,6
+arrival_date,2015-11-26 00:00:00,5
+arrival_date,2015-12-13 00:00:00,5
+arrival_date,2016-05-09 00:00:00,5
+arrival_date,2015-02-19 00:00:00,5
+arrival_date,2016-04-24 00:00:00,5
+arrival_date,2016-11-02 00:00:00,5
+arrival_date,2015-10-09 00:00:00,5
+arrival_date,2017-05-11 00:00:00,5
+arrival_date,2017-01-25 00:00:00,5
+arrival_date,2017-05-31 00:00:00,5
+arrival_date,2016-05-28 00:00:00,5
+arrival_date,2017-04-07 00:00:00,5
+arrival_date,2016-04-01 00:00:00,5
+arrival_date,2015-10-19 00:00:00,5
+arrival_date,2016-03-09 00:00:00,5
+arrival_date,2017-05-22 00:00:00,5
+arrival_date,2015-03-06 00:00:00,5
+arrival_date,2016-05-14 00:00:00,5
+arrival_date,2015-10-14 00:00:00,5
+arrival_date,2015-06-08 00:00:00,5
+arrival_date,2017-04-05 00:00:00,5
+arrival_date,2015-10-21 00:00:00,5
+arrival_date,2017-05-09 00:00:00,5
+arrival_date,2017-06-29 00:00:00,5
+arrival_date,2016-07-25 00:00:00,5
+arrival_date,2016-03-31 00:00:00,5
+arrival_date,2015-10-10 00:00:00,5
+arrival_date,2015-02-25 00:00:00,5
+arrival_date,2015-06-24 00:00:00,5
+arrival_date,2015-11-27 00:00:00,5
+arrival_date,2017-05-06 00:00:00,5
+arrival_date,2017-04-18 00:00:00,4
+arrival_date,2016-06-13 00:00:00,4
+arrival_date,2015-10-28 00:00:00,4
+arrival_date,2015-10-05 00:00:00,4
+arrival_date,2016-10-20 00:00:00,4
+arrival_date,2015-11-14 00:00:00,4
+arrival_date,2016-05-01 00:00:00,4
+arrival_date,2016-05-04 00:00:00,4
+arrival_date,2015-11-22 00:00:00,4
+arrival_date,2015-06-29 00:00:00,4
+arrival_date,2016-05-11 00:00:00,4
+arrival_date,2016-05-06 00:00:00,4
+arrival_date,2015-03-18 00:00:00,4
+arrival_date,2017-08-25 00:00:00,4
+arrival_date,2017-05-20 00:00:00,4
+arrival_date,2016-06-29 00:00:00,4
+arrival_date,2015-10-17 00:00:00,4
+arrival_date,2016-03-11 00:00:00,4
+arrival_date,2016-05-12 00:00:00,4
+arrival_date,2016-05-31 00:00:00,3
+arrival_date,2015-06-14 00:00:00,3
+arrival_date,2015-06-07 00:00:00,3
+arrival_date,2015-03-12 00:00:00,3
+arrival_date,2015-03-23 00:00:00,3
+arrival_date,2015-06-10 00:00:00,3
+arrival_date,2016-05-13 00:00:00,3
+arrival_date,2016-09-11 00:00:00,3
+arrival_date,2015-10-08 00:00:00,3
+arrival_date,2015-10-26 00:00:00,3
+arrival_date,2015-10-15 00:00:00,3
+arrival_date,2016-03-13 00:00:00,3
+arrival_date,2015-03-14 00:00:00,3
+arrival_date,2015-06-12 00:00:00,3
+arrival_date,2015-03-21 00:00:00,3
+arrival_date,2015-10-25 00:00:00,3
+arrival_date,2015-06-04 00:00:00,3
+arrival_date,2015-10-30 00:00:00,3
+arrival_date,2016-05-29 00:00:00,2
+arrival_date,2016-05-05 00:00:00,2
+arrival_date,2016-05-26 00:00:00,2
+arrival_date,2015-02-21 00:00:00,2
+arrival_date,2016-05-24 00:00:00,2
+arrival_date,2015-02-02 00:00:00,2
+arrival_date,2016-05-17 00:00:00,2
+arrival_date,2015-10-01 00:00:00,2
+arrival_date,2015-03-02 00:00:00,2
+arrival_date,2016-05-20 00:00:00,2
+arrival_date,2015-10-29 00:00:00,2
+arrival_date,2015-10-02 00:00:00,2
+arrival_date,2016-05-30 00:00:00,2
+arrival_date,2016-05-10 00:00:00,2
+arrival_date,2015-03-07 00:00:00,1
+arrival_date,2015-03-17 00:00:00,1
+arrival_date,2015-03-01 00:00:00,1
+arrival_date,2015-03-11 00:00:00,1
+arrival_date,2015-06-26 00:00:00,1
+arrival_date,2015-03-13 00:00:00,1
+arrival_date,2015-03-20 00:00:00,1
