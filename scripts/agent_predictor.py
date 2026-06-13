@@ -154,7 +154,7 @@ class AgentPredictor:
                 "clf__class_weight": ["balanced", "balanced_subsample", None]
             }
         elif clf_name == "logistic_regression":
-            params = {"C": 1.0, "penalty": "l2", "solver": "liblinear", "class_weight": "balanced", "max_iter": 2000}
+            params = {"C": 1.0, "l1_ratio": 0, "solver": "liblinear", "class_weight": "balanced", "max_iter": 2000}
             params.update(override)
             params.setdefault("random_state", self.random_state)
             estimator = LogisticRegression(**params)
